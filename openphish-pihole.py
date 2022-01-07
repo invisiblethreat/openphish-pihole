@@ -22,6 +22,10 @@ def set_from_lines(lines):
     sites = set()
     for line in lines:
         reflow = extract_fqdn(line)
+        # leverage artifact form tldextract that returns IP address as subdomain
+        # and causes a trailing `.` from extract_fqdn. PiHole can't use these.
+        if line.endwith('.'):
+            continue
         sites.add(reflow)
 
     return sites
