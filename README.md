@@ -1,5 +1,11 @@
 # openphish-pihole
 
+## tl; dr- Add this to Pihole
+
+`https://raw.githubusercontent.com/invisiblethreat/openphish-pihole/main/openphish.txt`
+
+## Details
+
 Using the feed at https://openphish.com/phishing_feeds.html to generate a Pihole
 compatible blocklist that is updated twice-daily. This matches the update
 cadence of the upstream feed.
