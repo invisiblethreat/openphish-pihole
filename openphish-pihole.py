@@ -24,7 +24,7 @@ def set_from_lines(lines):
         reflow = extract_fqdn(line)
         # leverage artifact form tldextract that returns IP address as subdomain
         # and causes a trailing `.` from extract_fqdn. PiHole can't use these.
-        if line.endwith('.'):
+        if line.endswith('.'):
             continue
         sites.add(reflow)
 
@@ -73,7 +73,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
             expire.add(site)
 
     with open(changelog, 'a') as cl:
-        print(f'### {now_dt} Changelog\n\n #### Adding\n', file=cl)
+        print(f'### {now_dt} Changelog\n\n#### Adding\n', file=cl)
         for add in sorted(adds):
             print(f"  - {add}", file=cl)
         print('\n#### Expiring\n', file=cl)
