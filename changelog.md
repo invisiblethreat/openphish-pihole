@@ -1,0 +1,2 @@
+# OpenPhish Feed Changelog
+

@@ -3,6 +3,6 @@ today=$(date +%F)
 
 python3 openphish-pihole.py
 
-git add openphish.txt
+git add .
 git commit -m "Update for $today"
 git push
