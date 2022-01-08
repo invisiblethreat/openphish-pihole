@@ -52,7 +52,8 @@ def write_feed(feed):
 
 def write_changelog(changelog=changelog, adds=set([]), expire=set([]), now=datetime.utcnow()):
     '''Write the changelog. Exit without changes if adds and expire are empty'''
-    if len(adds) != 0 and len(expire) != 0:
+    # nothing to see here, move along
+    if len(adds) == 0 and len(expire) == 0:
         return
 
     with open(changelog, 'a') as cl:
