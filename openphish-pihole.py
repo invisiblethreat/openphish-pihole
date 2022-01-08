@@ -10,7 +10,9 @@ changelog = 'changelog.md'
 metadata = 'metadata.json'
 output = 'openphish.txt'
 
+
 def extract_fqdn(fqdn):
+    '''Extract the FQDN from the URL'''
     parts = extract(fqdn)
     if parts.subdomain == '' or parts.subdomain == None:
         return f"{parts.domain}.{parts.suffix}"
@@ -19,18 +21,21 @@ def extract_fqdn(fqdn):
 
 
 def set_from_lines(lines):
+    '''Transform the list of lines from the feed into a set of FQDNs'''
     sites = set()
     for line in lines:
         reflow = extract_fqdn(line)
         # leverage artifact form tldextract that returns IP address as subdomain
         # and causes a trailing `.` from extract_fqdn. PiHole can't use these.
-        if line.endswith('.'):
+        if reflow..endswith('.'):
             continue
         sites.add(reflow)
 
     return sites
 
+
 def get_openphish(url):
+    '''Get the current OpenPhish feed and return a list'''
     req = requests.get(url)
     feed = set_from_lines(req.text.splitlines())
 
@@ -38,13 +43,38 @@ def get_openphish(url):
 
 
 def write_feed(feed):
+    '''Write the feed to the file to be consumed'''
     with open(output, 'w') as f:
         print(f'# Generated from {url} on {datetime.utcnow()}', file=f)
         for site in sorted(feed):
             print(site, file=f)
 
+
+def write_changelog(changelog=changelog, adds=set([]), expire=set([])):
+    '''Write the changelog. Exit without changes if adds and expire are empty'''
+    if len(adds) != 0 and len(expire) != 0:
+        return
+
+    with open(changelog, 'a') as cl:
+        print(f'### {now_dt} Changelog\n', file=cl)
+        if len(adds) != 0:
+            print(f'#### Adding\n', file=cl)
+            for add in sorted(adds):
+                print(f"  - {add}", file=cl)
+            print('', file=cl)
+
+        if len(expire) != 0:
+            print(f'#### Expired\n', file=cl)
+            for expired in sorted(expire):
+                print(f"  - {expired}", file=cl)
+            print('', file=cl)
+
+
 def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
-    # load metadata
+    '''Build the feed by comparing inbound entries against historical metadata.
+    If the item exists, the timestamp is updated. If the item does not exist,
+    add the item to the dict as a new entry. If the entriy has not been seen for
+    more than 'n' days, remove it as it is inactive.'''
     with open(metadata, 'r') as fm:
         meta = json.load(fm)
 
@@ -72,21 +102,13 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
             # you can't delete while iterating
             expire.add(site)
 
-    with open(changelog, 'a') as cl:
-        print(f'### {now_dt} Changelog\n\n#### Adding\n', file=cl)
-        for add in sorted(adds):
-            print(f"  - {add}", file=cl)
-        print('\n#### Expiring\n', file=cl)
-        for expired in sorted(expire):
-            del(meta[expired])
-            print(f"  - {expired}", file=cl)
-
-        print('', file=cl)
+    write_changelog(adds=adds, expired=expired)
 
     with open(metadata, 'w') as fm:
         json.dump(meta, fm, sort_keys=True, indent=4)
 
     return set(meta.keys())
+
 
 live_feed = get_openphish(url)
 feed = build_feed(live_feed)
