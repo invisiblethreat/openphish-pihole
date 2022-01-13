@@ -5,4 +5,9 @@ python3 openphish-pihole.py
 
 git add .
 git commit -m "Update for $today"
-git push
+output=$(git push >/dev/null)
+
+# let cron generate a message if things go poorly
+if [ "$?" != "0" ]; then
+  echo $output
+fi
