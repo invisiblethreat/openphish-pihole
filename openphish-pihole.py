@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from tldextract.tldextract import extract
 
 url = 'https://openphish.com/feed.txt'
-expiry = 120
+expiry = 180
 changelog = 'changelog.md'
 metadata = 'metadata.json'
 output = 'openphish.txt'
