@@ -59,16 +59,12 @@ def write_changelog(changelog=changelog, adds=set([]), expire=set([]), now=datet
     with open(changelog, 'a') as cl:
         print(f'### {now} Changelog\n', file=cl)
         if len(adds) != 0:
-            print(f'#### Adding\n', file=cl)
-            for add in sorted(adds):
-                print(f"  - {add}", file=cl)
-            print('', file=cl)
+            print(f'  - Adding {len(adds}', file=cl)
 
         if len(expire) != 0:
-            print(f'#### Expired\n', file=cl)
-            for expired in sorted(expire):
-                print(f"  - {expired}", file=cl)
-            print('', file=cl)
+            print(f'  - Expired {len(expired)}', file=cl)
+
+        print('', file=cl)
 
 
 def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
