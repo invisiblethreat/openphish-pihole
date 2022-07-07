@@ -62,7 +62,7 @@ def write_changelog(changelog=changelog, adds=set([]), expire=set([]), now=datet
             print(f'  - Adding {len(adds)}', file=cl)
 
         if len(expire) != 0:
-            print(f'  - Expired {len(expired)}', file=cl)
+            print(f'  - Expired {len(expire)}', file=cl)
 
         print('', file=cl)
 
