@@ -24,7 +24,8 @@ The feed is currently configured to retain all domains for 120 days.
 `metadata.json` is useful for understanding the age and last observation of the
 domain in question.
 
-## Growth
+## Growth/Size
 
-Growth of the list over time is unknown. This was started on 2022-01-06, and the
-true size of the list won't normalize until 120+ days.
+The retention is set to 180 days on this list, and having finally crossed the
+180 day mark, the list has now started to expire domains that haven't been
+re-observed. At this time, 2022-07-07, the list contains 95k entries.
