@@ -85,10 +85,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
         if site in meta:
             # Keep the finding active
             meta[site]["last_seen"] = now_ts
-            if "observations" in meta[site]:
-                meta[site]["observations"] += 1
-            else:
-                meta[site]["observations"] = 1
+            meta[site]["observations"] += 1
         else:
             # add a new fqdn
             init = {"first_seen": now_ts, "last_seen": now_ts, "observations": 1}
