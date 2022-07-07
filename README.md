@@ -20,7 +20,7 @@ at this time. Permitting URL shorteners explicitly will overcome this.
 
 ## Expiry
 
-The feed is currently configured to retain all domains for 120 days.
+The feed is currently configured to retain all domains for 180 days.
 `metadata.json` is useful for understanding the age and last observation of the
 domain in question.
 
