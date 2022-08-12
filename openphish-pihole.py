@@ -103,7 +103,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
     for expire in expired:
         del(meta[expire])
 
-    write_changelog(adds=adds, expire=expire, now=now_dt)
+    write_changelog(adds=adds, expire=expired, now=now_dt)
 
     with open(metadata, 'w') as fm:
         json.dump(meta, fm, sort_keys=True, indent=4)
