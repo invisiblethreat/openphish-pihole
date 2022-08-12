@@ -28,4 +28,4 @@ domain in question.
 
 The retention is set to 180 days on this list, and having finally crossed the
 180 day mark, the list has now started to expire domains that haven't been
-re-observed. At this time, 2022-07-07, the list contains 95k entries.
+re-observed. At this time, 2022-08-17, the list contains 103k entries.

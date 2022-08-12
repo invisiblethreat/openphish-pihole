@@ -1794,6 +1794,9 @@
   - Adding 331
   - Expired 16787
 
+These domains have now actually expired. Numbers will look more sane going
+forward
+
 ### 2022-08-12 15:34:58.224246 Changelog
 
   - Adding 322
