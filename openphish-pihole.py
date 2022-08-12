@@ -92,13 +92,16 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
             meta[site] = init
             adds.add(site)
 
-    expire = set()
+    expired = set()
     for site, times in meta.items():
         last_seen_dt = datetime.fromtimestamp(times['last_seen'])
         delta = now_dt - last_seen_dt
         if delta.days > expiry:
             # you can't delete while iterating
-            expire.add(site)
+            expired.add(site)
+
+    for expire in expired:
+        del(meta[expire])
 
     write_changelog(adds=adds, expire=expire, now=now_dt)
 
