@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
 from tldextract.tldextract import extract
 
 url = 'https://openphish.com/feed.txt'
@@ -50,7 +50,7 @@ def write_feed(feed):
             print(site, file=f)
 
 
-def write_changelog(changelog=changelog, adds=set([]), expire=set([]), now=datetime.utcnow()):
+def write_changelog(changelog=changelog, adds=set([]), expire=set([]), size=0, now=datetime.utcnow()):
     '''Write the changelog. Exit without changes if adds and expire are empty'''
     # nothing to see here, move along
     if len(adds) == 0 and len(expire) == 0:
@@ -58,16 +58,19 @@ def write_changelog(changelog=changelog, adds=set([]), expire=set([]), now=datet
 
     with open(changelog, 'a') as cl:
         print(f'### {now} Changelog\n', file=cl)
+        if size != 0:
+            print(f'  - Total Entries: {size}', file=cl)
+
         if len(adds) != 0:
-            print(f'  - Adding {len(adds)}', file=cl)
+            print(f'  - Adding: {len(adds)}', file=cl)
 
         if len(expire) != 0:
-            print(f'  - Expired {len(expire)}', file=cl)
+            print(f'  - Expired: {len(expire)}', file=cl)
 
         print('', file=cl)
 
 
-def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
+def build_feed(feed, metadata=metadata, expiry=expiry):
     '''Build the feed by comparing inbound entries against historical metadata.
     If the item exists, the timestamp is updated. If the item does not exist,
     add the item to the dict as a new entry. If the entriy has not been seen for
@@ -88,7 +91,8 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
             meta[site]["observations"] += 1
         else:
             # add a new fqdn
-            init = {"first_seen": now_ts, "last_seen": now_ts, "observations": 1}
+            init = {"first_seen": now_ts,
+                    "last_seen": now_ts, "observations": 1}
             meta[site] = init
             adds.add(site)
 
@@ -103,7 +107,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry, changelog=changelog):
     for expire in expired:
         del(meta[expire])
 
-    write_changelog(adds=adds, expire=expired, now=now_dt)
+    write_changelog(adds=adds, expire=expired, size=len(meta), now=now_dt)
 
     with open(metadata, 'w') as fm:
         json.dump(meta, fm, sort_keys=True, indent=4)
