@@ -8504,3 +8504,9 @@ forward
   - Total Entries: 87358
   - Adding: 148
 
+### 2024-10-25 11:37:02.552783 Changelog
+
+  - Total Entries: 86977
+  - Adding: 140
+  - Expired: 521
+
