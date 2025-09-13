@@ -12300,3 +12300,9 @@ forward
   - Total Entries: 69022
   - Adding: 163
 
+### 2025-09-13 23:37:02.489389 Changelog
+
+  - Total Entries: 68641
+  - Adding: 93
+  - Expired: 474
+
