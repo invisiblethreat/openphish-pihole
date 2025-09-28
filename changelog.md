@@ -12467,3 +12467,9 @@ forward
   - Total Entries: 66039
   - Adding: 191
 
+### 2025-09-28 11:37:02.205555 Changelog
+
+  - Total Entries: 65977
+  - Adding: 221
+  - Expired: 283
+
