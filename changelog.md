@@ -12542,3 +12542,9 @@ forward
   - Total Entries: 64869
   - Adding: 194
 
+### 2025-10-04 23:37:02.679430 Changelog
+
+  - Total Entries: 64469
+  - Adding: 86
+  - Expired: 486
+
