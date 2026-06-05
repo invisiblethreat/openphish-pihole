@@ -1,0 +1,8 @@
+certifi==2026.5.20
+charset-normalizer==3.4.7
+filelock==3.29.1
+idna==3.18
+requests==2.34.2
+requests-file==3.0.1
+tldextract==5.3.1
+urllib3==2.7.0
