@@ -98,7 +98,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry):
 
     expired = set()
     for site, times in meta.items():
-        last_seen_dt = datetime.datetime.fromtimestamp(times['last_seen'])
+        last_seen_dt = datetime.datetime.fromtimestamp(times['last_seen'], tz=datetime.UTC)
         delta = now_dt - last_seen_dt
         if delta.days > expiry:
             # you can't delete while iterating
