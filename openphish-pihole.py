@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json
 import requests
-from datetime import datetime
+import datetime
 from tldextract.tldextract import extract
 
 url = 'https://openphish.com/feed.txt'
@@ -14,7 +14,7 @@ output = 'openphish.txt'
 def extract_fqdn(fqdn):
     '''Extract the FQDN from the URL'''
     parts = extract(fqdn)
-    if parts.subdomain == '' or parts.subdomain == None:
+    if parts.subdomain == '' or parts.subdomain is None:
         return f"{parts.domain}.{parts.suffix}"
 
     return f"{parts.subdomain}.{parts.domain}.{parts.suffix}"
@@ -45,12 +45,12 @@ def get_openphish(url):
 def write_feed(feed):
     '''Write the feed to the file to be consumed'''
     with open(output, 'w') as f:
-        print(f'# Generated from {url} on {datetime.utcnow()}', file=f)
+        print(f'# Generated from {url} on {datetime.datetime.now(datetime.UTC)}', file=f)
         for site in sorted(feed):
             print(site, file=f)
 
 
-def write_changelog(changelog=changelog, adds=set([]), expire=set([]), size=0, now=datetime.utcnow()):
+def write_changelog(changelog=changelog, adds=set([]), expire=set([]), size=0, now=datetime.datetime.now(datetime.UTC)):
     '''Write the changelog. Exit without changes if adds and expire are empty'''
     # nothing to see here, move along
     if len(adds) == 0 and len(expire) == 0:
@@ -78,7 +78,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry):
     with open(metadata, 'r') as fm:
         meta = json.load(fm)
 
-    now_dt = datetime.utcnow()
+    now_dt = datetime.datetime.now(datetime.UTC)
     now_ts = now_dt.timestamp()
 
     adds = set()
@@ -98,7 +98,7 @@ def build_feed(feed, metadata=metadata, expiry=expiry):
 
     expired = set()
     for site, times in meta.items():
-        last_seen_dt = datetime.fromtimestamp(times['last_seen'])
+        last_seen_dt = datetime.datetime.fromtimestamp(times['last_seen'])
         delta = now_dt - last_seen_dt
         if delta.days > expiry:
             # you can't delete while iterating
