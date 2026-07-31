@@ -264,11 +264,6 @@
         "last_seen": 1771691822.238825,
         "observations": 1
     },
-    "03c5157.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "0504xplmkt.syncpath-connectsrv.com": {
         "first_seen": 1775659022.488698,
         "last_seen": 1775659022.488698,
@@ -1024,16 +1019,6 @@
         "last_seen": 1769963821.850016,
         "observations": 1
     },
-    "11web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "11web.whatsapwcsx.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "1201web.whatsapwacs.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
@@ -1131,8 +1116,8 @@
     },
     "121gle.senes.at": {
         "first_seen": 1777041422.601818,
-        "last_seen": 1785497822.012086,
-        "observations": 2
+        "last_seen": 1785541022.496626,
+        "observations": 3
     },
     "121glo.proxer.cc": {
         "first_seen": 1772426222.291455,
@@ -1264,11 +1249,6 @@
         "last_seen": 1776350222.315336,
         "observations": 2
     },
-    "1238web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "1241web.whatsapwacs.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
@@ -1377,11 +1357,6 @@
     "12web.whatsapapz.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "12web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "12zt-7wx1q8-izxu-712t-6uvxse.pages.dev": {
@@ -1617,11 +1592,6 @@
     "1399web.whatsapwacs.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "139web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "13web.whatsapapcs.com": {
@@ -1889,11 +1859,6 @@
         "last_seen": 1769920622.270424,
         "observations": 1
     },
-    "14web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "1504web.whatsapwacs.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
@@ -1912,11 +1877,6 @@
     "1505sss.com": {
         "first_seen": 1780886221.756442,
         "last_seen": 1780886221.756442,
-        "observations": 1
-    },
-    "150web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "151-242-2-118.cprapid.com": {
@@ -2064,11 +2024,6 @@
         "last_seen": 1780151822.404793,
         "observations": 1
     },
-    "1587web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "159-65-121-33.cprapid.com": {
         "first_seen": 1772771822.873168,
         "last_seen": 1772771822.873168,
@@ -2202,6 +2157,11 @@
     "161tyesy.vercel.app": {
         "first_seen": 1782905821.80889,
         "last_seen": 1782905821.80889,
+        "observations": 1
+    },
+    "162.89.74.97.host.secureserver.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "162tyesy.vercel.app": {
@@ -2402,11 +2362,6 @@
     "16web.whatsapapcs.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "16web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "1704asdfgh.integracoresync.me": {
@@ -2659,11 +2614,6 @@
         "last_seen": 1782905821.80889,
         "observations": 1
     },
-    "176web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "17712.wang": {
         "first_seen": 1782689822.25683,
         "last_seen": 1782689822.25683,
@@ -2914,9 +2864,9 @@
         "last_seen": 1782905821.80889,
         "observations": 1
     },
-    "181web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
+    "183.181.205.92.host.secureserver.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "18313.xyz": {
@@ -3012,11 +2962,6 @@
     "185tyesy.vercel.app": {
         "first_seen": 1782905821.80889,
         "last_seen": 1782905821.80889,
-        "observations": 1
-    },
-    "185web.whatsapwcou.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "1862.ee": {
@@ -3174,11 +3119,6 @@
         "last_seen": 1769920622.270424,
         "observations": 1
     },
-    "18web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "190tyesy.vercel.app": {
         "first_seen": 1782905821.80889,
         "last_seen": 1782905821.80889,
@@ -3249,11 +3189,6 @@
         "last_seen": 1778812621.835895,
         "observations": 1
     },
-    "1999web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "19n02n12xxss12-vb238320j23.vercel.app": {
         "first_seen": 1776911822.509535,
         "last_seen": 1776911822.509535,
@@ -3267,16 +3202,6 @@
     "19web.whatsapapz.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "19web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "19web.whatsapwcsx.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "1a235609.123444-b4w.pages.dev": {
@@ -3507,11 +3432,6 @@
     "1web.whatsapapcs.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "1web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "1xlite-0032263.bar": {
@@ -3919,11 +3839,6 @@
         "last_seen": 1783424222.676688,
         "observations": 1
     },
-    "2175web.whatsapwacs.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "218135.xyz": {
         "first_seen": 1783553822.254873,
         "last_seen": 1783553822.254873,
@@ -3942,11 +3857,6 @@
     "21web.whatsapapcs.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "21web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "22-abhi.github.io": {
@@ -3979,11 +3889,6 @@
         "last_seen": 1769963821.850016,
         "observations": 1
     },
-    "221web.whatsapwcou.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "222-ship-it.github.io": {
         "first_seen": 1783424222.676688,
         "last_seen": 1783424222.676688,
@@ -3992,11 +3897,6 @@
     "2223web.whatsapwaco.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "2225web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "22266.de-infokonto.com": {
@@ -4027,11 +3927,6 @@
     "22555258.com": {
         "first_seen": 1783510622.360078,
         "last_seen": 1783510622.360078,
-        "observations": 1
-    },
-    "225web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "226.91.74.97.host.secureserver.net": {
@@ -4219,6 +4114,11 @@
         "last_seen": 1785411422.04677,
         "observations": 1
     },
+    "23x23x2x.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "24-arya.github.io": {
         "first_seen": 1771475822.025811,
         "last_seen": 1777041422.601818,
@@ -4339,11 +4239,6 @@
         "last_seen": 1769963821.850016,
         "observations": 1
     },
-    "24web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "24web.whatsapwcsx.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
@@ -4362,11 +4257,6 @@
     "250web.whatsapapa.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "251web.whatsapwcou.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "2531web.whatsapwaas.com": {
@@ -4427,11 +4317,6 @@
     "25web.whatsapapcs.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "25web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "2641.win": {
@@ -4544,11 +4429,6 @@
         "last_seen": 1775054222.205219,
         "observations": 1
     },
-    "2895web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "28ecne20f9u.securebankinggroup.org": {
         "first_seen": 1756089422.38728,
         "last_seen": 1778467022.262074,
@@ -4569,19 +4449,9 @@
         "last_seen": 1772123822.390854,
         "observations": 1
     },
-    "2958web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "295cb424-62fa-f87d-7967-adobe2.reynoldsjace5.workers.dev": {
         "first_seen": 1779374222.766733,
         "last_seen": 1779374222.766733,
-        "observations": 1
-    },
-    "2985web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "29cc9-qum3w-tcqk-ch1-9vj.pages.dev": {
@@ -5346,8 +5216,8 @@
     },
     "3658992.cc": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "3658994.cc": {
         "first_seen": 1784633822.295434,
@@ -6266,8 +6136,8 @@
     },
     "4003659.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "4008eponfodmafhtupuxzlkq-h6ahede6cna6h2hc.z03.azurefd.net": {
         "first_seen": 1774665422.065596,
@@ -6384,11 +6254,6 @@
         "last_seen": 1781318223.573616,
         "observations": 1
     },
-    "448web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "44bz-2gw7-e9ne.gopal-bristow-ca-s-account.workers.dev": {
         "first_seen": 1780756622.38744,
         "last_seen": 1780756622.38744,
@@ -6424,6 +6289,11 @@
         "last_seen": 1784029021.942289,
         "observations": 1
     },
+    "451238.help": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "453000048943749.weebly.com": {
         "first_seen": 1776350222.315336,
         "last_seen": 1776350222.315336,
@@ -6432,11 +6302,6 @@
     "453689185217777.weebly.com": {
         "first_seen": 1776307022.353778,
         "last_seen": 1776307022.353778,
-        "observations": 1
-    },
-    "458web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "4598765432943749.weebly.com": {
@@ -6512,11 +6377,6 @@
     "493web.whatsapapa.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "49web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "4a0ba425-9c7e-4b65-b47c-85af2b281004-00-1t4fhuvfnzkz.spock.replit.dev": {
@@ -7434,11 +7294,6 @@
         "last_seen": 1784504221.992985,
         "observations": 2
     },
-    "627web.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "6299betoi.com": {
         "first_seen": 1782689822.25683,
         "last_seen": 1782689822.25683,
@@ -7452,11 +7307,6 @@
     "62db6atd.vercel.app": {
         "first_seen": 1784461021.782443,
         "last_seen": 1784461021.782443,
-        "observations": 1
-    },
-    "630web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "63390.xyz": {
@@ -8144,11 +7994,6 @@
         "last_seen": 1769920622.270424,
         "observations": 1
     },
-    "6web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "6x7jb-8fp6t-0amk-iobl.pages.dev": {
         "first_seen": 1775659022.488698,
         "last_seen": 1775659022.488698,
@@ -8574,11 +8419,6 @@
         "last_seen": 1785238622.701168,
         "observations": 1
     },
-    "77web.whatsapwacz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "78191.cc": {
         "first_seen": 1775918222.449075,
         "last_seen": 1775918222.449075,
@@ -8827,11 +8667,6 @@
     "7web.whatsapapcs.com": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
-        "observations": 1
-    },
-    "7web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "7web.whatsapwcsx.com": {
@@ -9396,8 +9231,8 @@
     },
     "89betlc.com": {
         "first_seen": 1779935822.136604,
-        "last_seen": 1784072222.500436,
-        "observations": 4
+        "last_seen": 1785541022.496626,
+        "observations": 5
     },
     "89eb-q5yd-ugg8.s-tucker-faroint-com-s-account.workers.dev": {
         "first_seen": 1782905821.80889,
@@ -9579,16 +9414,6 @@
         "last_seen": 1769920622.270424,
         "observations": 1
     },
-    "8web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "8web.whatsapwcsx.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "8x2e.co": {
         "first_seen": 1782862622.577222,
         "last_seen": 1782862622.577222,
@@ -9691,8 +9516,8 @@
     },
     "9000-firebase-authenticate-1781494318542.cluster-c72u3gwiofapkvxrcwjq5zllcu.cloudworkstations.dev": {
         "first_seen": 1781653022.42629,
-        "last_seen": 1781653022.42629,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "9000-firebase-begin-1777441898743.cluster-ia3qyg64ezfigtyvi2ozzigmyy.cloudworkstations.dev": {
         "first_seen": 1777559821.821614,
@@ -9899,11 +9724,6 @@
         "last_seen": 1782430622.436987,
         "observations": 2
     },
-    "93web.whatsapwcou.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "94050105.xyz": {
         "first_seen": 1770784621.833985,
         "last_seen": 1773455822.566137,
@@ -10076,8 +9896,8 @@
     },
     "97ee4.catex.at": {
         "first_seen": 1777171022.51515,
-        "last_seen": 1784677022.604286,
-        "observations": 3
+        "last_seen": 1785541022.496626,
+        "observations": 4
     },
     "97ee5.catex.at": {
         "first_seen": 1777473422.69054,
@@ -10232,11 +10052,6 @@
     "9945670.com": {
         "first_seen": 1780972622.367944,
         "last_seen": 1780972622.367944,
-        "observations": 1
-    },
-    "996web.whatsapwcsx.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "998payqianbaoanquanxiazaigw.com.cn": {
@@ -11026,8 +10841,8 @@
     },
     "abaklinservicios.com.ve": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "abarrotodo.com": {
         "first_seen": 1782992221.874369,
@@ -12042,6 +11857,11 @@
     "access48.agency-connect-profile.com": {
         "first_seen": 1778683021.986587,
         "last_seen": 1778683021.986587,
+        "observations": 1
+    },
+    "accessavailable.jdevcloud.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "accessboard.co.uk": {
@@ -13087,6 +12907,16 @@
     "acg-zra-biz-kpo-miv-sp7ct2.pages.dev": {
         "first_seen": 1775659022.488698,
         "last_seen": 1775659022.488698,
+        "observations": 1
+    },
+    "achdh-dpdwwrdxc0a9.edgeone.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "acheminement-myswiss.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "achmitzakaria1-cmd.github.io": {
@@ -14354,6 +14184,11 @@
         "last_seen": 1774579021.987595,
         "observations": 1
     },
+    "adobe-review.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "adobe-t6u.kira-schneider-sanjunranchtx-com-s-account.workers.dev": {
         "first_seen": 1777732621.878336,
         "last_seen": 1777732621.878336,
@@ -14879,6 +14714,11 @@
         "last_seen": 1776436621.913683,
         "observations": 5
     },
+    "af83c2f7-e94f-4908-9e04-6e96269d358a-00-3m1tfo9zpuwcp.picard.replit.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "afaa.vn": {
         "first_seen": 1772858222.673257,
         "last_seen": 1772901422.550614,
@@ -15157,6 +14997,16 @@
     "agenciatributariaop.eu.cc": {
         "first_seen": 1781188622.764168,
         "last_seen": 1781188622.764168,
+        "observations": 1
+    },
+    "agenciatributariaqazd.eu.cc": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "agenciatributariaqazw.eu.cc": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "agenciatributariar.cfd": {
@@ -15626,8 +15476,8 @@
     },
     "aiai-lovers.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "aibalance.kakunet.top": {
         "first_seen": 1771475822.025811,
@@ -15732,11 +15582,6 @@
     "aio.uk.cc": {
         "first_seen": 1770309422.177409,
         "last_seen": 1770309422.177409,
-        "observations": 1
-    },
-    "aip.l9l.top": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "aip1ed.vercel.app": {
@@ -17819,6 +17664,11 @@
         "last_seen": 1775788622.704874,
         "observations": 2
     },
+    "alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "allebilet.pl-oferta74hf84cf4.shop": {
         "first_seen": 1782473822.423472,
         "last_seen": 1782473822.423472,
@@ -18752,6 +18602,11 @@
     "am.fimbyn.shop": {
         "first_seen": 1777257422.746771,
         "last_seen": 1777257422.746771,
+        "observations": 1
+    },
+    "am.gckhr.lol": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "am.gvifvh.click": {
@@ -19779,6 +19634,11 @@
         "last_seen": 1781318223.573616,
         "observations": 1
     },
+    "amazon-eight-taupe.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "amazon-eosin-iota.vercel.app": {
         "first_seen": 1776350222.315336,
         "last_seen": 1777603021.821483,
@@ -20008,6 +19868,11 @@
         "first_seen": 1772469422.731711,
         "last_seen": 1778553422.148388,
         "observations": 3
+    },
+    "amazonbyibrahim.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "amazonbylio.vercel.app": {
         "first_seen": 1765211822.292559,
@@ -21769,6 +21634,11 @@
         "last_seen": 1771951022.412407,
         "observations": 1
     },
+    "ap.demosite.cz": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "apac.orbitor.dev": {
         "first_seen": 1772167022.37999,
         "last_seen": 1781739421.74583,
@@ -22656,8 +22526,8 @@
     },
     "app.shopledgerapp.com": {
         "first_seen": 1781015822.221039,
-        "last_seen": 1785497822.012086,
-        "observations": 5
+        "last_seen": 1785541022.496626,
+        "observations": 6
     },
     "app.sttarkprontaresposta.com.br": {
         "first_seen": 1778985422.90343,
@@ -23371,12 +23241,17 @@
     },
     "appleoficial.support": {
         "first_seen": 1774795022.035491,
-        "last_seen": 1777084622.740962,
-        "observations": 2
+        "last_seen": 1785541022.496626,
+        "observations": 3
     },
     "appleon-line.com": {
         "first_seen": 1774795022.035491,
         "last_seen": 1774795022.035491,
+        "observations": 1
+    },
+    "applepayservices-fndjgffqasabh6hs.z03.azurefd.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "applerastreio.net": {
@@ -24211,8 +24086,8 @@
     },
     "areasegura.s3.us-east-005.backblazeb2.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "areavision.online": {
         "first_seen": 1782819422.549396,
@@ -24939,6 +24814,11 @@
         "last_seen": 1775788622.704874,
         "observations": 2
     },
+    "ashishjadhav544.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "ashishkumawat2005.github.io": {
         "first_seen": 1782085022.366727,
         "last_seen": 1784590622.602543,
@@ -25604,6 +25484,11 @@
         "last_seen": 1781696222.839954,
         "observations": 1
     },
+    "atharvnavlakhe.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "athinastylianou.gr": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
@@ -26094,11 +25979,6 @@
         "last_seen": 1770093422.681019,
         "observations": 1
     },
-    "att.ifkeu.cc": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "att.ilkkd.cc": {
         "first_seen": 1770179822.722671,
         "last_seen": 1770179822.722671,
@@ -26112,11 +25992,6 @@
     "att.jvcut.life": {
         "first_seen": 1774535822.20235,
         "last_seen": 1774535822.20235,
-        "observations": 1
-    },
-    "att.kdyuw.cc": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "att.kgeyu.cc": {
@@ -26477,11 +26352,6 @@
     "attnet-108557.weeblysite.com": {
         "first_seen": 1770093422.681019,
         "last_seen": 1770093422.681019,
-        "observations": 1
-    },
-    "attofficeadmin.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "attoimcewallti.webflow.io": {
@@ -27799,11 +27669,6 @@
         "last_seen": 1776998222.729602,
         "observations": 1
     },
-    "austria-dpd.info": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "autenticacaogov-suporte.com": {
         "first_seen": 1781361422.14708,
         "last_seen": 1781361422.14708,
@@ -28851,8 +28716,8 @@
     },
     "ayaankumar08260-hue.github.io": {
         "first_seen": 1784331421.928401,
-        "last_seen": 1784331421.928401,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "ayabroudapo-bit.github.io": {
         "first_seen": 1783165022.305064,
@@ -29344,11 +29209,6 @@
         "last_seen": 1782128222.659712,
         "observations": 1
     },
-    "b2.gobookroom.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "b2.kqryri1.club": {
         "first_seen": 1773283022.49571,
         "last_seen": 1773369421.834815,
@@ -29827,11 +29687,6 @@
     "babatundes12.wixstudio.com": {
         "first_seen": 1775961422.681283,
         "last_seen": 1775961422.681283,
-        "observations": 1
-    },
-    "babitevip.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "baboully.github.io": {
@@ -32971,8 +32826,8 @@
     },
     "bankofamerica-security.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "bankofamerica-three.vercel.app": {
         "first_seen": 1779503822.254375,
@@ -33969,6 +33824,11 @@
         "last_seen": 1784720222.70596,
         "observations": 1
     },
+    "beautiful-hummingbird-8f2323.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "beautiful-valkyrie-cd0489.netlify.app": {
         "first_seen": 1781447822.501686,
         "last_seen": 1781447822.501686,
@@ -34649,11 +34509,6 @@
         "last_seen": 1783294622.235242,
         "observations": 1
     },
-    "benos.website": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "benq-vice.s3.us-east-2.amazonaws.com": {
         "first_seen": 1776955022.814267,
         "last_seen": 1776955022.814267,
@@ -34892,6 +34747,11 @@
     "besolono.link": {
         "first_seen": 1776566222.286803,
         "last_seen": 1776566222.286803,
+        "observations": 1
+    },
+    "bespoke-alfajores-fef1ce.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "bespoke-sundae-5b293b.netlify.app": {
@@ -36459,11 +36319,6 @@
         "last_seen": 1772685422.607274,
         "observations": 1
     },
-    "bio18kk.github.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "biobioaldia.cl": {
         "first_seen": 1783424222.676688,
         "last_seen": 1783424222.676688,
@@ -36687,6 +36542,11 @@
     "bitmartleogene.webflow.io": {
         "first_seen": 1774233422.212062,
         "last_seen": 1774233422.212062,
+        "observations": 1
+    },
+    "bitmartloggine.webflow.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "bitmartlogiene.webflow.io": {
@@ -37389,36 +37249,6 @@
         "last_seen": 1774319823.955762,
         "observations": 1
     },
-    "blocket-onlinebetalning22823.click": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "blocket-onlinebetalning22829.click": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "blocket-onlinebetalning22830.click": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "blocket-onlinebetalning23003.click": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "blocket-secure-betalning.help": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "blocket.top": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "blockfe-loogi.godaddysites.com": {
         "first_seen": 1781015822.221039,
         "last_seen": 1781015822.221039,
@@ -37651,8 +37481,8 @@
     },
     "blox.watevergames.net": {
         "first_seen": 1781361422.14708,
-        "last_seen": 1784331421.928401,
-        "observations": 4
+        "last_seen": 1785541022.496626,
+        "observations": 5
     },
     "bloxdrops.xyz": {
         "first_seen": 1783683422.076984,
@@ -38572,6 +38402,11 @@
     "booklng.versf-paids.com": {
         "first_seen": 1770698222.227787,
         "last_seen": 1770698222.227787,
+        "observations": 1
+    },
+    "booklngstay-prearrlvalnotlce.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "booksbyexperts.com": {
@@ -41346,8 +41181,8 @@
     },
     "byycart.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "byyusithou.com": {
         "first_seen": 1783294622.235242,
@@ -42734,11 +42569,6 @@
         "last_seen": 1775399822.590348,
         "observations": 1
     },
-    "cashman1011.wixsite.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "cashoutrewards.roblox-635.workers.dev": {
         "first_seen": 1775572622.58383,
         "last_seen": 1775572622.58383,
@@ -43104,11 +42934,6 @@
         "last_seen": 1777819022.387236,
         "observations": 2
     },
-    "ccoonvesee_roo-1ogin.godaddysites.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "ccreem9.wixstudio.com": {
         "first_seen": 1770482221.932974,
         "last_seen": 1770482221.932974,
@@ -43298,6 +43123,11 @@
         "first_seen": 1766939822.631333,
         "last_seen": 1771000622.538694,
         "observations": 5
+    },
+    "cecs-fagpdnd5cnatgfez.z03.azurefd.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "cee079b8.wwww3e.pages.dev": {
         "first_seen": 1778207822.120269,
@@ -43524,11 +43354,6 @@
         "last_seen": 1783424222.676688,
         "observations": 1
     },
-    "centralonlineagora.shop": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "centralpedagiodigital.info": {
         "first_seen": 1771864622.573155,
         "last_seen": 1771907822.379456,
@@ -43644,6 +43469,11 @@
         "last_seen": 1772512622.45808,
         "observations": 1
     },
+    "certifiedsafepages.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "cerulean-entremet-a1aeb4.netlify.app": {
         "first_seen": 1772685422.607274,
         "last_seen": 1776436621.913683,
@@ -43722,6 +43552,11 @@
     "cf-1-5bd.pages.dev": {
         "first_seen": 1784979422.622598,
         "last_seen": 1784979422.622598,
+        "observations": 1
+    },
+    "cf352485.tw1.ru": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "cf491689.tw1.ru": {
@@ -44259,10 +44094,25 @@
         "last_seen": 1783078622.46857,
         "observations": 1
     },
+    "chat.buzz-whatapp.com.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "chat.connect-whatapp.com.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "chat.mycircleonline.com": {
         "first_seen": 1771605422.739487,
         "last_seen": 1776091022.505194,
         "observations": 4
+    },
+    "chat.ring-whatapp.com.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "chat.whatsapp.vans.biz.id": {
         "first_seen": 1777041422.601818,
@@ -45061,8 +44911,8 @@
     },
     "cjmcbride28.github.io": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "cjnu-ymb7-jy1d.antoine-antoinenorris-ca-s-account.workers.dev": {
         "first_seen": 1781361422.14708,
@@ -46044,6 +45894,11 @@
         "last_seen": 1782603421.910545,
         "observations": 5
     },
+    "closestone.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "closeup-ldzr-liive-en.pages.dev": {
         "first_seen": 1782949022.657457,
         "last_seen": 1782949022.657457,
@@ -46236,8 +46091,8 @@
     },
     "cloudinfolibrary.com": {
         "first_seen": 1754361422.789918,
-        "last_seen": 1785195422.292232,
-        "observations": 18
+        "last_seen": 1785541022.496626,
+        "observations": 19
     },
     "cloudmail00.standard.us-east-1.oortstorages.com": {
         "first_seen": 1768451822.364519,
@@ -46844,6 +46699,11 @@
         "last_seen": 1771951022.412407,
         "observations": 1
     },
+    "coce-crccbadch4gae8f2.z03.azurefd.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "coco-dog.jp": {
         "first_seen": 1781782622.664208,
         "last_seen": 1782905821.80889,
@@ -47253,11 +47113,6 @@
         "first_seen": 1772469422.731711,
         "last_seen": 1773758222.381015,
         "observations": 2
-    },
-    "coiinvesep-ro0l-giinn.godaddysites.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "coimwbaswprowlogw.godaddysites.com": {
         "first_seen": 1778164622.265549,
@@ -48589,11 +48444,6 @@
         "last_seen": 1770784621.833985,
         "observations": 2
     },
-    "comstrtledger-access.square.site": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "comtamsabichuongsiungonn.pages.dev": {
         "first_seen": 1778337422.15499,
         "last_seen": 1778596621.801014,
@@ -48691,8 +48541,8 @@
     },
     "concerned-frame-480538.framer.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "concerned-statuses-460946.framer.app": {
         "first_seen": 1784720222.70596,
@@ -48869,11 +48719,6 @@
         "last_seen": 1777257422.746771,
         "observations": 1
     },
-    "confirm-la-venta.click": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "confirm-your-order.com": {
         "first_seen": 1783078622.46857,
         "last_seen": 1783078622.46857,
@@ -48902,11 +48747,6 @@
     "confirmacion-personal-email2026.hstn.me": {
         "first_seen": 1784677022.604286,
         "last_seen": 1784677022.604286,
-        "observations": 1
-    },
-    "confirmado.click": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "confirmar-datos-bhd-movil-personas2026.weebly.com": {
@@ -48967,21 +48807,6 @@
     "confirmed1.invoice-partners-agency.com": {
         "first_seen": 1777171022.51515,
         "last_seen": 1777171022.51515,
-        "observations": 1
-    },
-    "confirmpay2288129.cfd": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "confirmpay282828.cfd": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "confirmpay812673.cfd": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "confluence.aposteln-ffm.de": {
@@ -49072,11 +48897,6 @@
     "connect-livelgr-eng.pages.dev": {
         "first_seen": 1785411422.04677,
         "last_seen": 1785411422.04677,
-        "observations": 1
-    },
-    "connect-login-ledgerr.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "connect-ndax-x-io-en.framer.website": {
@@ -49396,8 +49216,8 @@
     },
     "consulta-si-erees-beneficiariio.hstn.me": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "consultacessoveicular.shop": {
         "first_seen": 1775615822.600635,
@@ -50049,11 +49869,6 @@
         "last_seen": 1785195422.292232,
         "observations": 1
     },
-    "corwheels.net": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "cosmic-rain-zen.vercel.app": {
         "first_seen": 1771864622.573155,
         "last_seen": 1771907822.379456,
@@ -50461,8 +50276,8 @@
     },
     "cpintermedia-net-controlpanel-login-clienttypewebmail8557576565.s3.eu-north-1.amazonaws.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "cpo.qeb.temporary.site": {
         "first_seen": 1770093422.681019,
@@ -51463,6 +51278,11 @@
         "first_seen": 1772210222.328371,
         "last_seen": 1775054222.205219,
         "observations": 2
+    },
+    "csca-cmdhe6e9atfjd5ah.z03.azurefd.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "cscekendra.com": {
         "first_seen": 1773715022.616463,
@@ -53484,6 +53304,11 @@
         "last_seen": 1776782222.253252,
         "observations": 1
     },
+    "danaindonesia-l.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "danaindonesiiaa.ibdr.my.id": {
         "first_seen": 1776695822.006699,
         "last_seen": 1776695822.006699,
@@ -53571,8 +53396,8 @@
     },
     "dangkypaypal.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "danhvantienganh.com": {
         "first_seen": 1783813022.546357,
@@ -53754,41 +53579,6 @@
         "last_seen": 1782949022.657457,
         "observations": 1
     },
-    "darb.itc.gov.ae-qoes.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.itc.gov.ae-qoeu.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.itc.gov.ae-qoex.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.itc.gov.ae-qonz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.itc.gov.ae-qova.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.itc.gov.ae-qovt.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.itc.gov.ae-qoxa.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "darb.qmobiliity.top": {
         "first_seen": 1776825421.833097,
         "last_seen": 1776825421.833097,
@@ -53804,70 +53594,15 @@
         "last_seen": 1770568622.08407,
         "observations": 2
     },
-    "darb.qmobilitbfh.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitbuc.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "darb.qmobilitbyx.com": {
         "first_seen": 1770568622.08407,
         "last_seen": 1770957421.989418,
         "observations": 2
     },
-    "darb.qmobilitexu.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitgsv.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilithgyh.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "darb.qmobilitpcj.com": {
         "first_seen": 1770568622.08407,
         "last_seen": 1770957421.989418,
         "observations": 2
-    },
-    "darb.qmobilitpmu.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitsaz.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitsda.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitszoai.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitvrl.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "darb.qmobilitykh.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "darb.rtarp.com": {
         "first_seen": 1769488622.813218,
@@ -54006,8 +53741,8 @@
     },
     "dashboardaccount-moviepremiumnetfix.129-121-114-233.cpanel.site": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "dashboardp0rtalmya0.wixsite.com": {
         "first_seen": 1771951022.412407,
@@ -55154,6 +54889,11 @@
         "last_seen": 1781609822.176351,
         "observations": 1
     },
+    "delightful-home-526187.framer.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "delimitene.s3.us-east-005.backblazeb2.com": {
         "first_seen": 1770827821.822311,
         "last_seen": 1770827821.822311,
@@ -55493,11 +55233,6 @@
         "first_seen": 1779374222.766733,
         "last_seen": 1781059022.884152,
         "observations": 5
-    },
-    "dennix43.wixstudio.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "dense-replaced-fighting-commitment.trycloudflare.com": {
         "first_seen": 1775140622.193234,
@@ -55934,16 +55669,6 @@
         "last_seen": 1776695822.006699,
         "observations": 1
     },
-    "deutch-0rder-lkmcn.digital": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "deutch-shipping591.live": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "deutschebank.abbove.com": {
         "first_seen": 1781955422.058304,
         "last_seen": 1784763423.084232,
@@ -56372,6 +56097,11 @@
     "devwithriyad.github.io": {
         "first_seen": 1776220622.811079,
         "last_seen": 1776220622.811079,
+        "observations": 1
+    },
+    "devxnsh1.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "devyanivizekar.github.io": {
@@ -57119,11 +56849,6 @@
         "last_seen": 1772037422.49701,
         "observations": 1
     },
-    "dierffo.wixstudio.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "dieschweizerpost.com": {
         "first_seen": 1779331022.662973,
         "last_seen": 1779331022.662973,
@@ -57352,11 +57077,6 @@
     "digsol.vip": {
         "first_seen": 1770007021.990586,
         "last_seen": 1770007021.990586,
-        "observations": 1
-    },
-    "dijital-menu.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "dil19.cn": {
@@ -58884,6 +58604,11 @@
         "last_seen": 1774708622.605977,
         "observations": 1
     },
+    "docu-signtrust-fd9xk.ondigitalocean.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "docu-singature.github.io": {
         "first_seen": 1778855822.337001,
         "last_seen": 1778855822.337001,
@@ -58891,8 +58616,8 @@
     },
     "docu434.zfos.workers.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "docu63usngwd0c85bdrvsharepoint.capitolelectrics.com": {
         "first_seen": 1776868622.775612,
@@ -66654,6 +66379,11 @@
         "last_seen": 1772210222.328371,
         "observations": 1
     },
+    "dtwq1mz6skqlr.cloudfront.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "dtx36.cn": {
         "first_seen": 1770136622.078856,
         "last_seen": 1770136622.078856,
@@ -66693,11 +66423,6 @@
         "first_seen": 1778294222.80283,
         "last_seen": 1780713422.456865,
         "observations": 3
-    },
-    "dud6.my.id": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "dudaalves-dev.github.io": {
         "first_seen": 1781447822.501686,
@@ -66934,11 +66659,6 @@
         "last_seen": 1779676621.931119,
         "observations": 1
     },
-    "dya562.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "dyaaka-meyhdi.wasmer.app": {
         "first_seen": 1779115022.379676,
         "last_seen": 1779115022.379676,
@@ -66967,11 +66687,6 @@
     "dynamexcard.com": {
         "first_seen": 1782776222.236409,
         "last_seen": 1782776222.236409,
-        "observations": 1
-    },
-    "dynamic-clafoutis-13658a.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "dynamic-flan-6dbece.netlify.app": {
@@ -67033,11 +66748,6 @@
         "first_seen": 1771000622.538694,
         "last_seen": 1777732621.878336,
         "observations": 3
-    },
-    "dzttest.yaochuxing.top": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "e-bloc-manager.ro": {
         "first_seen": 1777689422.178726,
@@ -67239,16 +66949,6 @@
         "last_seen": 1778380621.956999,
         "observations": 2
     },
-    "e88k.xyz": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "e90d.xyz": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "e9u1-avjpm9-9j1-t4yva-tdt12.pages.dev": {
         "first_seen": 1784115421.961504,
         "last_seen": 1784115421.961504,
@@ -67376,8 +67076,8 @@
     },
     "eassstlinkkksettings.weebly.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "easter.kemri-wellcome.com": {
         "first_seen": 1775183822.712723,
@@ -67854,11 +67554,6 @@
         "last_seen": 1774579021.987595,
         "observations": 1
     },
-    "ebay-pro.org": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "ebay-seller-center-managedpayments.vercel.app": {
         "first_seen": 1752892622.372644,
         "last_seen": 1775097422.033768,
@@ -68009,14 +67704,9 @@
         "last_seen": 1770957421.989418,
         "observations": 2
     },
-    "ecladorfrance.fr": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "eclectic-crisp-cd6f0b.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
+    "eclectic-dolphin-b539ec.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "ecms.documentexaminations.com": {
@@ -68929,6 +68619,11 @@
         "last_seen": 1777819022.387236,
         "observations": 4
     },
+    "eloquent-bublanina-d0dc9b.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "elpneuma.pneumaint.org": {
         "first_seen": 1772037422.49701,
         "last_seen": 1772080621.892408,
@@ -68967,11 +68662,6 @@
     "elypbre.com": {
         "first_seen": 1784763423.084232,
         "last_seen": 1784763423.084232,
-        "observations": 1
-    },
-    "elyriawear.shop": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "em.plotio-go.com": {
@@ -70156,8 +69846,8 @@
     },
     "endeveteasetsxmimgqiye.vercel.app": {
         "first_seen": 1784331421.928401,
-        "last_seen": 1784331421.928401,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "endingbark.online": {
         "first_seen": 1776479822.12083,
@@ -70278,11 +69968,6 @@
         "first_seen": 1771475822.025811,
         "last_seen": 1776350222.315336,
         "observations": 2
-    },
-    "eng-kucoiin-app-us.square.site": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "eng-ladgeir.pages.dev": {
         "first_seen": 1775399822.590348,
@@ -71034,11 +70719,6 @@
         "last_seen": 1777300621.870586,
         "observations": 3
     },
-    "erfjjh.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "erfolgselster.de": {
         "first_seen": 1782301021.82934,
         "last_seen": 1782301021.82934,
@@ -71114,11 +70794,6 @@
         "last_seen": 1774233422.212062,
         "observations": 3
     },
-    "ernestineglover.wixstudio.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "ernestolopes.github.io": {
         "first_seen": 1783078622.46857,
         "last_seen": 1783078622.46857,
@@ -71144,10 +70819,20 @@
         "last_seen": 1770482221.932974,
         "observations": 2
     },
+    "erp.saina.com.tr": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "erparmindr.github.io": {
         "first_seen": 1784158622.638031,
         "last_seen": 1784201821.868015,
         "observations": 2
+    },
+    "errcode-blond.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "erro.contaonline.site": {
         "first_seen": 1770784621.833985,
@@ -71654,6 +71339,11 @@
         "last_seen": 1782430622.436987,
         "observations": 2
     },
+    "eu-facebook.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "eu-official-suites.pages.dev": {
         "first_seen": 1785152222.711995,
         "last_seen": 1785152222.711995,
@@ -71986,8 +71676,8 @@
     },
     "ewxewxewx-41i.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "ex-dos-us.zapier.app": {
         "first_seen": 1776695822.006699,
@@ -72814,14 +72504,14 @@
         "last_seen": 1773628622.343681,
         "observations": 1
     },
+    "extralimitedagosto.s3.us-east-005.backblazeb2.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "extraordinary-banoffee-40d5d9.netlify.app": {
         "first_seen": 1771951022.412407,
         "last_seen": 1771951022.412407,
-        "observations": 1
-    },
-    "extraordinary-klepon-b41cbd.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "extraordinary-pastelito-8d4c5e.netlify.app": {
@@ -73349,11 +73039,6 @@
         "last_seen": 1781231822.543856,
         "observations": 1
     },
-    "fabulous-taiyaki-4fa4ce.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "facaij.vip": {
         "first_seen": 1775356622.233068,
         "last_seen": 1775356622.233068,
@@ -73864,6 +73549,11 @@
         "last_seen": 1778078222.546519,
         "observations": 2
     },
+    "facebook-clone-xi-three.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "facebook-clone-zeta-six.vercel.app": {
         "first_seen": 1783726622.316342,
         "last_seen": 1783726622.316342,
@@ -74207,6 +73897,11 @@
     "facebook-login-n.blogspot.com": {
         "first_seen": 1785281822.923578,
         "last_seen": 1785281822.923578,
+        "observations": 1
+    },
+    "facebook-login-page-4g6p.onrender.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "facebook-login-page-clone-gamma.vercel.app": {
@@ -75076,8 +74771,8 @@
     },
     "facebooklogin1234.blogspot.com": {
         "first_seen": 1783985822.216463,
-        "last_seen": 1783985822.216463,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "facebooklogin12732771.github.io": {
         "first_seen": 1747060622.400689,
@@ -76356,8 +76051,8 @@
     },
     "fbshoppingfb.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "fbsurveys-mnl-official-phil.netlify.app": {
         "first_seen": 1783813022.546357,
@@ -76437,11 +76132,6 @@
     "fdad-vuki-t2ux.jerome-dixon-milcrop-com-s-account.workers.dev": {
         "first_seen": 1781696222.839954,
         "last_seen": 1781696222.839954,
-        "observations": 1
-    },
-    "fdafda.vercel.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "fdaku998.github.io": {
@@ -76547,16 +76237,6 @@
     "fed-ex.vercel.app": {
         "first_seen": 1781231822.543856,
         "last_seen": 1781231822.543856,
-        "observations": 1
-    },
-    "feddevv.github.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "federal.homedns.org": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "federalnewsmagazine.com": {
@@ -76762,11 +76442,6 @@
     "ferrmainbutcure.wasmer.app": {
         "first_seen": 1778207822.120269,
         "last_seen": 1778207822.120269,
-        "observations": 1
-    },
-    "ferterytrerdyyyt.dns.army": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "fesco-training.com.cn": {
@@ -77084,19 +76759,9 @@
         "last_seen": 1770136622.078856,
         "observations": 1
     },
-    "fidelitysafetyac.one": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "fidelitysafetyad.one": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "fidelitysafetyae.one": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "fidelitysafetyaf.one": {
@@ -78144,6 +77809,11 @@
         "last_seen": 1778596621.801014,
         "observations": 1
     },
+    "firhitirtlhd.click": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "firmar-doc.github.io": {
         "first_seen": 1781696222.839954,
         "last_seen": 1781696222.839954,
@@ -78409,11 +78079,6 @@
         "last_seen": 1782776222.236409,
         "observations": 1
     },
-    "fkwofwifmwif.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "flamaquimicasrl.com.ar": {
         "first_seen": 1777948622.239723,
         "last_seen": 1777948622.239723,
@@ -78598,6 +78263,11 @@
         "first_seen": 1771562222.255781,
         "last_seen": 1776739022.575612,
         "observations": 4
+    },
+    "flixorbit-login.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "flnd-iph-fmi.us": {
         "first_seen": 1781653022.42629,
@@ -79237,11 +78907,6 @@
     "formn-dnapayllater.playground.biz.id": {
         "first_seen": 1770741421.991945,
         "last_seen": 1770741421.991945,
-        "observations": 1
-    },
-    "formniceinewssid.depelover.my.id": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "formnscosttmerlyan.hazelnutindo.com": {
@@ -80168,11 +79833,6 @@
         "first_seen": 1779287821.8587,
         "last_seen": 1780886221.756442,
         "observations": 4
-    },
-    "frankmike34.wixstudio.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "franzfinanz.de": {
         "first_seen": 1778899022.248818,
@@ -81471,8 +81131,8 @@
     },
     "g5.lu": {
         "first_seen": 1784504221.992985,
-        "last_seen": 1785497822.012086,
-        "observations": 9
+        "last_seen": 1785541022.496626,
+        "observations": 10
     },
     "g63b.xyz": {
         "first_seen": 1770050222.176277,
@@ -81582,11 +81242,6 @@
     "ga8icc.cfd": {
         "first_seen": 1783640222.124425,
         "last_seen": 1783640222.124425,
-        "observations": 1
-    },
-    "gaamirenelogon.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "gaamsinilogon.webflow.io": {
@@ -82379,11 +82034,6 @@
         "last_seen": 1776134222.278405,
         "observations": 12
     },
-    "gaminelogi.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "gamini-logg-in.godaddysites.com": {
         "first_seen": 1747319821.972048,
         "last_seen": 1778121422.789929,
@@ -82969,11 +82619,6 @@
         "last_seen": 1782430622.436987,
         "observations": 1
     },
-    "geiinimilogin.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "geimenilogin.gitbook.io": {
         "first_seen": 1779071822.424285,
         "last_seen": 1779071822.424285,
@@ -83098,11 +82743,6 @@
         "first_seen": 1769877422.788739,
         "last_seen": 1777732621.878336,
         "observations": 2
-    },
-    "geminexlogi.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "gemini-balance-0554.onrender.com": {
         "first_seen": 1768063022.063109,
@@ -83372,11 +83012,6 @@
     "gemini.kt666.eu.org": {
         "first_seen": 1775356622.233068,
         "last_seen": 1775356622.233068,
-        "observations": 1
-    },
-    "gemini.kylinoio.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "gemini.lanlehai.top": {
@@ -83659,11 +83294,6 @@
         "last_seen": 1775572622.58383,
         "observations": 1
     },
-    "geminizllogen.gitbook.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "geminizlogez.gitbook.io": {
         "first_seen": 1784849822.637833,
         "last_seen": 1784849822.637833,
@@ -83688,11 +83318,6 @@
         "first_seen": 1752503822.397584,
         "last_seen": 1778510222.246827,
         "observations": 12
-    },
-    "geminzologin.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "gemiximlogen.gitbook.io": {
         "first_seen": 1759588622.421997,
@@ -83783,11 +83408,6 @@
         "first_seen": 1781275022.361121,
         "last_seen": 1783683422.076984,
         "observations": 3
-    },
-    "gemoiqnilogin.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "gemoni-ux-login.gitbook.io": {
         "first_seen": 1771778221.917258,
@@ -84174,6 +83794,11 @@
         "last_seen": 1771994222.634788,
         "observations": 1
     },
+    "get-strt-trezr-io.framer.website": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "get-trezer-bridge-io.pages.dev": {
         "first_seen": 1776652621.774253,
         "last_seen": 1776695822.006699,
@@ -84427,11 +84052,6 @@
     "gfjhfyjfgg.weebly.com": {
         "first_seen": 1782344222.539849,
         "last_seen": 1782344222.539849,
-        "observations": 1
-    },
-    "gfred.dynv6.net": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "gfsamza0.club": {
@@ -85344,11 +84964,6 @@
         "last_seen": 1775011022.904567,
         "observations": 1
     },
-    "gleaming-sfogliatella-f08ed9.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "gleeful-kitsune-cd3127.netlify.app": {
         "first_seen": 1779719822.118713,
         "last_seen": 1779763022.805036,
@@ -86244,11 +85859,6 @@
         "last_seen": 1772080621.892408,
         "observations": 3
     },
-    "goibdyr.xyz": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "gokhanbyk.github.io": {
         "first_seen": 1782603421.910545,
         "last_seen": 1784417822.159098,
@@ -86283,11 +85893,6 @@
         "first_seen": 1770223022.007275,
         "last_seen": 1770223022.007275,
         "observations": 1
-    },
-    "golden-capybara-730f55.netlify.app": {
-        "first_seen": 1766723822.006992,
-        "last_seen": 1769877422.788739,
-        "observations": 2
     },
     "golden-champion-116409.framer.app": {
         "first_seen": 1777689422.178726,
@@ -87244,9 +86849,19 @@
         "last_seen": 1778337422.15499,
         "observations": 5
     },
+    "gredx.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "greegotyou.iceiy.com": {
         "first_seen": 1782430622.436987,
         "last_seen": 1782430622.436987,
+        "observations": 1
+    },
+    "green-awx.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "green-base-4466.lindademidwsqfb8990.workers.dev": {
@@ -87624,11 +87239,6 @@
         "last_seen": 1781361422.14708,
         "observations": 1
     },
-    "gsnyman11.github.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "gsxheartpay.frmxxydns.biz.id": {
         "first_seen": 1784849822.637833,
         "last_seen": 1784849822.637833,
@@ -87849,11 +87459,6 @@
         "last_seen": 1776263822.581495,
         "observations": 1
     },
-    "guileless-snickerdoodle-86b184.netlify.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "guinnipraffaela36904-dinimos352470-manine30624.pages.dev": {
         "first_seen": 1718678222.019763,
         "last_seen": 1781566622.27829,
@@ -87893,11 +87498,6 @@
         "first_seen": 1779935822.136604,
         "last_seen": 1782257822.601939,
         "observations": 2
-    },
-    "guminiilogin.gitbook.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "gumnilogin.webflow.io": {
         "first_seen": 1783294622.235242,
@@ -88719,6 +88319,11 @@
         "last_seen": 1776220622.811079,
         "observations": 1
     },
+    "haleema7502.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "haleemausman1.github.io": {
         "first_seen": 1783337822.670584,
         "last_seen": 1784979422.622598,
@@ -88872,11 +88477,6 @@
     "hans-oe.com.cn": {
         "first_seen": 1779633421.767611,
         "last_seen": 1779633421.767611,
-        "observations": 1
-    },
-    "hansikakvig.github.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "hanveq-solti-biz-pelrox-kentra-sp9ct12.pages.dev": {
@@ -90029,11 +89629,6 @@
         "last_seen": 1780022222.515645,
         "observations": 1
     },
-    "help-ledger-login-end.vercel.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "help-leedgtart.webflow.io": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
@@ -90107,16 +89702,6 @@
     "help-nndax-sso.webflow.io": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "help-save-terzor-wallet.vercel.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "help-save-terzor.vercel.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "help-servicee.accounts-admin-agency.com": {
@@ -90427,11 +90012,6 @@
     "help1.site": {
         "first_seen": 1774492622.518153,
         "last_seen": 1774492622.518153,
-        "observations": 1
-    },
-    "helpcente-process.vercel.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "helpcenteraple.tempurl.host": {
@@ -91339,6 +90919,11 @@
         "last_seen": 1775443022.488535,
         "observations": 1
     },
+    "hittps-roblox.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "hivancouverjerichobeach.hostel.town": {
         "first_seen": 1784374622.073576,
         "last_seen": 1784417822.159098,
@@ -91732,6 +91317,11 @@
     "home-faqs-trezr-io.square.site": {
         "first_seen": 1781653022.42629,
         "last_seen": 1781653022.42629,
+        "observations": 1
+    },
+    "home-io-trez-start-us.zapier.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "home-kraken-us-auth.square.site": {
@@ -93441,8 +93031,8 @@
     },
     "hzsiwic.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "i-adeniburdanal.com": {
         "first_seen": 1771216622.411952,
@@ -96169,11 +95759,6 @@
         "last_seen": 1770007021.990586,
         "observations": 1
     },
-    "info-resmi215.blogspot.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "info-resmi233.blogspot.com": {
         "first_seen": 1770309422.177409,
         "last_seen": 1770309422.177409,
@@ -96669,6 +96254,11 @@
         "last_seen": 1779849422.50413,
         "observations": 1
     },
+    "ing-gray.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "ing-help.net": {
         "first_seen": 1779719822.118713,
         "last_seen": 1779763022.805036,
@@ -96861,8 +96451,8 @@
     },
     "inlnk.co": {
         "first_seen": 1760539022.315402,
-        "last_seen": 1784806621.867627,
-        "observations": 27
+        "last_seen": 1785541022.496626,
+        "observations": 28
     },
     "inlogupcold.godaddysites.com": {
         "first_seen": 1747147022.298313,
@@ -97599,6 +97189,11 @@
         "last_seen": 1784763423.084232,
         "observations": 2
     },
+    "instagram-friendship-dare.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "instagram-frontend-lime.vercel.app": {
         "first_seen": 1784849822.637833,
         "last_seen": 1784849822.637833,
@@ -98077,6 +97672,11 @@
     "instagramprofilefinder.blogspot.com": {
         "first_seen": 1771562222.255781,
         "last_seen": 1771562222.255781,
+        "observations": 1
+    },
+    "instagramprofilelinks.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "instagramrecovery.blogspot.com": {
@@ -99764,6 +99364,11 @@
         "last_seen": 1771087022.035994,
         "observations": 1
     },
+    "itrustcapital-lo0gin.gitbook.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "itrustcapital-logiin-secure.webflow.io": {
         "first_seen": 1771087022.035994,
         "last_seen": 1771087022.035994,
@@ -100684,6 +100289,11 @@
         "last_seen": 1785497822.012086,
         "observations": 1
     },
+    "j138l.vip": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "j19qi1.github.io": {
         "first_seen": 1785454622.258632,
         "last_seen": 1785497822.012086,
@@ -101446,13 +101056,13 @@
     },
     "j80l.vip": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "j87j.vip": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "j87n.vip": {
         "first_seen": 1782949022.657457,
@@ -101617,6 +101227,11 @@
     "j99x.vip": {
         "first_seen": 1783726622.316342,
         "last_seen": 1783726622.316342,
+        "observations": 1
+    },
+    "j9s-0ocsy-npc-g1bvk-k0v74.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "ja-xi.vercel.app": {
@@ -102283,6 +101898,11 @@
         "first_seen": 1774579021.987595,
         "last_seen": 1778121422.789929,
         "observations": 2
+    },
+    "jellyfish-app-eshkj.ondigitalocean.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "jellyfish-app-jsmsz.ondigitalocean.app": {
         "first_seen": 1777862222.519701,
@@ -103094,6 +102714,11 @@
         "last_seen": 1770525422.025858,
         "observations": 1
     },
+    "jolly-themes-327857.framer.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "jomphefavia-shb.pages.dev": {
         "first_seen": 1773326228.429551,
         "last_seen": 1774708622.605977,
@@ -103277,11 +102902,6 @@
     "joyfullmint-drop5.vercel.app": {
         "first_seen": 1778553422.148388,
         "last_seen": 1778553422.148388,
-        "observations": 1
-    },
-    "joymeekings.wixsite.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "joyous-course-233115.framer.app": {
@@ -104026,8 +103646,8 @@
     },
     "k73r.top": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "k75p.top": {
         "first_seen": 1783294622.235242,
@@ -105367,6 +104987,11 @@
     "kh5bct7gaqlk35ib.softpakind.com": {
         "first_seen": 1782085022.366727,
         "last_seen": 1782085022.366727,
+        "observations": 1
+    },
+    "khaki-octopus-59420.zap.cloud": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "khaki-shares-665070.framer.app": {
@@ -107944,6 +107569,11 @@
         "last_seen": 1776047822.677732,
         "observations": 2
     },
+    "kuccoinlognzs.gitbook.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "kuccoinpra.club": {
         "first_seen": 1759891027.312169,
         "last_seen": 1775443022.488535,
@@ -109651,8 +109281,8 @@
     },
     "kunststeinviertel.de": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "kunwardev0210.github.io": {
         "first_seen": 1782301021.82934,
@@ -110006,8 +109636,8 @@
     },
     "kwushisuh.biz.id": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "kwwosja.sbs": {
         "first_seen": 1773974222.758153,
@@ -110186,8 +109816,8 @@
     },
     "l67kf-2g6-bou-fov1-6ex-v73t83.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "l6angk.top": {
         "first_seen": 1781231822.543856,
@@ -110419,6 +110049,11 @@
         "last_seen": 1785411422.04677,
         "observations": 1
     },
+    "lambent-mermaid-5c62b0.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "lambruchona.com": {
         "first_seen": 1782128222.659712,
         "last_seen": 1782171422.755924,
@@ -110582,11 +110217,6 @@
     "larrywiki.com": {
         "first_seen": 1784633822.295434,
         "last_seen": 1784633822.295434,
-        "observations": 1
-    },
-    "larrywriggs.wixsite.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "lasalleunipa.ucoz.site": {
@@ -112794,6 +112424,11 @@
         "last_seen": 1775875022.103701,
         "observations": 1
     },
+    "ledzrlognn.webflow.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "leeabbeylondon.hostel.town": {
         "first_seen": 1781145422.007375,
         "last_seen": 1781145422.007375,
@@ -112921,8 +112556,8 @@
     },
     "leger-live-doc-io.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "legerstart.wixstudio.com": {
         "first_seen": 1775961422.681283,
@@ -112986,8 +112621,8 @@
     },
     "leigerd-li-ve-learn.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "leireio0nb.azurewebsites.net": {
         "first_seen": 1771432621.968176,
@@ -113191,8 +112826,8 @@
     },
     "lezder-cm-strat-key-us.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "lffjhfffffe.weebly.com": {
         "first_seen": 1770871022.793228,
@@ -113676,8 +113311,8 @@
     },
     "link-magics.lovable.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "link-support-badge-5632346.pages.dev": {
         "first_seen": 1781696222.839954,
@@ -113726,8 +113361,8 @@
     },
     "link.infini.fr": {
         "first_seen": 1784720222.70596,
-        "last_seen": 1785454622.258632,
-        "observations": 4
+        "last_seen": 1785541022.496626,
+        "observations": 5
     },
     "link.peludinhos-damel.com": {
         "first_seen": 1777559821.821614,
@@ -114056,8 +113691,8 @@
     },
     "live-leedgers--eng-en.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "live-lev-com-en.pages.dev": {
         "first_seen": 1774967822.772855,
@@ -115634,6 +115269,11 @@
         "last_seen": 1782041822.017991,
         "observations": 1
     },
+    "login.livecricketupdate.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "login.m5jk7xvczpdzwqzaqa6k9cfgzwafg8aspyjq2gf9uc.abrdns.com": {
         "first_seen": 1776868622.775612,
         "last_seen": 1776868622.775612,
@@ -115657,6 +115297,11 @@
     "login.microsoftsupport.cloud": {
         "first_seen": 1783165022.305064,
         "last_seen": 1783165022.305064,
+        "observations": 1
+    },
+    "login.my.gov.au-taxstatement26.de5.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "login.on-forge.com": {
@@ -115701,8 +115346,8 @@
     },
     "login.sf.tumee.com": {
         "first_seen": 1783726622.316342,
-        "last_seen": 1783726622.316342,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "login.sharedpdf-file.site": {
         "first_seen": 1776955022.814267,
@@ -116743,6 +116388,11 @@
         "first_seen": 1775486221.872319,
         "last_seen": 1778510222.246827,
         "observations": 4
+    },
+    "lucent-florentine-4217dd.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "lucent-tapioca-9a32b5.netlify.app": {
         "first_seen": 1773801422.592018,
@@ -118987,6 +118637,11 @@
     "macelos.cyou": {
         "first_seen": 1781869022.182883,
         "last_seen": 1781869022.182883,
+        "observations": 1
+    },
+    "macjsiy.us.cc": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "maclxisx.us.cc": {
@@ -121499,6 +121154,11 @@
         "last_seen": 1780713422.456865,
         "observations": 4
     },
+    "make-courgette-949087.framer.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "make-lynx-807794.framer.app": {
         "first_seen": 1780799821.891066,
         "last_seen": 1780799821.891066,
@@ -122029,11 +121689,6 @@
         "last_seen": 1771043822.681414,
         "observations": 1
     },
-    "manxtwentiiesbonnie1.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "many-future-715254.framer.app": {
         "first_seen": 1784806621.867627,
         "last_seen": 1784806621.867627,
@@ -122516,8 +122171,8 @@
     },
     "marnavi-gld-belxora-p2t6hk17.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "marnavi-gld-zentora-r4x9dc63.pages.dev": {
         "first_seen": 1784115421.961504,
@@ -122667,6 +122322,11 @@
     "masachusets.lol": {
         "first_seen": 1782214622.457276,
         "last_seen": 1782214622.457276,
+        "observations": 1
+    },
+    "masaka-academy.org": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "masakkaktivasyondogrula.duckdns.org": {
@@ -122846,8 +122506,8 @@
     },
     "mateladepormhub.phemayameltahub.site": {
         "first_seen": 1785238622.701168,
-        "last_seen": 1785325021.82369,
-        "observations": 3
+        "last_seen": 1785541022.496626,
+        "observations": 4
     },
     "matemaskklugn.webflow.io": {
         "first_seen": 1771259822.43159,
@@ -126064,6 +125724,11 @@
         "last_seen": 1781231822.543856,
         "observations": 2
     },
+    "mercadolibre-details-challenge-kohl.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "mercadolibre-promocao.vercel.app": {
         "first_seen": 1778553422.148388,
         "last_seen": 1781015822.221039,
@@ -126272,6 +125937,11 @@
     "mesya4nye.gkb12-nn.ru": {
         "first_seen": 1784374622.073576,
         "last_seen": 1784374622.073576,
+        "observations": 1
+    },
+    "met-wemask-exten-sion.webflow.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "meta-account.bussines-partner-agency.com": {
@@ -129114,6 +128784,11 @@
         "last_seen": 1785454622.258632,
         "observations": 3
     },
+    "metanet-auth.office.jekklim.org": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "metanet-configuration-domain-serviceid9626.vidiglass.it": {
         "first_seen": 1782041822.017991,
         "last_seen": 1782041822.017991,
@@ -129222,6 +128897,11 @@
     "metemask_log.godaddysites.com": {
         "first_seen": 1783121822.682379,
         "last_seen": 1783121822.682379,
+        "observations": 1
+    },
+    "metemeskwalet.webflow.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "metewmu-skk-qlog10.godaddysites.com": {
@@ -129874,11 +129554,6 @@
         "last_seen": 1770568622.08407,
         "observations": 1
     },
-    "micfgry576iksw.framer.website": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "micfsftsft.weebly.com": {
         "first_seen": 1771043822.681414,
         "last_seen": 1771043822.681414,
@@ -129893,11 +129568,6 @@
         "first_seen": 1738989421.908682,
         "last_seen": 1770050222.176277,
         "observations": 10
-    },
-    "michaelchalmers3.wixsite.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "michaelt-troychevroletgmc-xm5dq.ondigitalocean.app": {
         "first_seen": 1784806621.867627,
@@ -129977,11 +129647,6 @@
     "micro.statichost.page": {
         "first_seen": 1785411422.04677,
         "last_seen": 1785411422.04677,
-        "observations": 1
-    },
-    "microaundndud.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "microcix.com": {
@@ -130239,16 +129904,6 @@
         "last_seen": 1771000622.538694,
         "observations": 1
     },
-    "microsoftliveoutlookuserrs.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
-    "microsoftliveoutlookuserrss.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "microsoftlogin-u7g5wnvg.b4a.run": {
         "first_seen": 1770611822.221782,
         "last_seen": 1770611822.221782,
@@ -130344,11 +129999,6 @@
         "last_seen": 1770611822.221782,
         "observations": 1
     },
-    "microsoftuplogin.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "microsoftweb365.fwh.is": {
         "first_seen": 1781275022.361121,
         "last_seen": 1781318223.573616,
@@ -130387,11 +130037,6 @@
     "microtv.ma": {
         "first_seen": 1779547022.675624,
         "last_seen": 1779547022.675624,
-        "observations": 1
-    },
-    "micrsofe.framer.ai": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "micsrosroft.framer.website": {
@@ -131399,14 +131044,14 @@
         "last_seen": 1776998222.729602,
         "observations": 1
     },
+    "mlcrosoft.cluod.qubicdev.nl": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "mlcrosoftonline.net": {
         "first_seen": 1777041422.601818,
         "last_seen": 1777041422.601818,
-        "observations": 1
-    },
-    "mlcrosxoft.framer.website": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "mldasbuyallregion.shop": {
@@ -132612,11 +132257,6 @@
     "moonvote.live": {
         "first_seen": 1782992221.874369,
         "last_seen": 1782992221.874369,
-        "observations": 1
-    },
-    "mooreb2056.wixsite.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "mooshcasino-pt.com": {
@@ -135094,6 +134734,11 @@
         "last_seen": 1770093422.681019,
         "observations": 1
     },
+    "mybt-payment-107385-109649.square.site": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "mybtroadband.weebly.com": {
         "first_seen": 1777862222.519701,
         "last_seen": 1777862222.519701,
@@ -136904,11 +136549,6 @@
         "last_seen": 1772599022.502008,
         "observations": 1
     },
-    "nayoj59980.wixsite.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "naytontop2-ship-it.github.io": {
         "first_seen": 1781825822.155093,
         "last_seen": 1781825822.155093,
@@ -137274,11 +136914,6 @@
         "last_seen": 1772080621.892408,
         "observations": 1
     },
-    "neftlixudpate.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "negative-report.com": {
         "first_seen": 1771648621.793895,
         "last_seen": 1777516622.373651,
@@ -137539,11 +137174,6 @@
         "last_seen": 1776177422.044346,
         "observations": 1
     },
-    "net1f1ix.com": {
-        "first_seen": 1769834221.863969,
-        "last_seen": 1769877422.788739,
-        "observations": 2
-    },
     "netanswer-potalsite.com": {
         "first_seen": 1782905821.80889,
         "last_seen": 1782905821.80889,
@@ -137783,6 +137413,11 @@
         "first_seen": 1774233422.212062,
         "last_seen": 1777430222.266249,
         "observations": 3
+    },
+    "netcoinss-logii.webflow.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "netcoinsz-login.webflow.io": {
         "first_seen": 1770871022.793228,
@@ -140859,11 +140494,6 @@
         "last_seen": 1782517021.841545,
         "observations": 1
     },
-    "njhjhhijh.weebly.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "njj.standard.us-east-1.oortstorages.com": {
         "first_seen": 1776177422.044346,
         "last_seen": 1783683422.076984,
@@ -141757,6 +141387,11 @@
     "novopatamar.s3.us-east-005.backblazeb2.com": {
         "first_seen": 1777127822.507573,
         "last_seen": 1777127822.507573,
+        "observations": 1
+    },
+    "novositepaybonu.lovable.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "novotempoparanovachances.s3.us-east-005.backblazeb2.com": {
@@ -142924,9 +142559,19 @@
         "last_seen": 1775227022.341423,
         "observations": 5
     },
+    "offical-start-led-ger-en.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "offical-trezriostart.weebly.com": {
         "first_seen": 1777473422.69054,
         "last_seen": 1777473422.69054,
+        "observations": 1
+    },
+    "office-365-new.s3.ca-west-1.amazonaws.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "office-365-speicherlimit.webflow.io": {
@@ -143003,6 +142648,11 @@
         "first_seen": 1781696222.839954,
         "last_seen": 1781782622.664208,
         "observations": 3
+    },
+    "office365.statichost.page": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "office365elementos.fwh.is": {
         "first_seen": 1780929422.064448,
@@ -144034,6 +143684,11 @@
         "last_seen": 1770957421.989418,
         "observations": 1
     },
+    "one.buzz-whatapp.com.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "one.fallup.xyz": {
         "first_seen": 1782819422.549396,
         "last_seen": 1782819422.549396,
@@ -144609,11 +144264,6 @@
         "last_seen": 1776047822.677732,
         "observations": 2
     },
-    "openmint-page01.vercel.app": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "openmint-page08.vercel.app": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
@@ -144782,6 +144432,11 @@
     "opi-nfews.wasmer.app": {
         "first_seen": 1777862222.519701,
         "last_seen": 1777862222.519701,
+        "observations": 1
+    },
+    "opieum.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "opik-wansa.pages.dev": {
@@ -146234,6 +145889,11 @@
         "last_seen": 1780886221.756442,
         "observations": 2
     },
+    "p29c.top": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "p3-creator.github.io": {
         "first_seen": 1774535822.20235,
         "last_seen": 1774535822.20235,
@@ -146311,8 +145971,8 @@
     },
     "p40f.top": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "p4quete.github.io": {
         "first_seen": 1747147022.298313,
@@ -146927,6 +146587,11 @@
     "painel-specialist.graphisapps.com.br": {
         "first_seen": 1778121422.789929,
         "last_seen": 1778121422.789929,
+        "observations": 1
+    },
+    "paineldedisponibilidade.s3.us-east-005.backblazeb2.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "pairs.li": {
@@ -147886,8 +147551,8 @@
     },
     "pay-com.blogspot.com": {
         "first_seen": 1784115421.961504,
-        "last_seen": 1784115421.961504,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "pay-paypaynejp87288i.replit.app": {
         "first_seen": 1781696222.839954,
@@ -148227,6 +147892,11 @@
     "payrollcenters.d3mjouo510f2il.amplifyapp.com": {
         "first_seen": 1783510622.360078,
         "last_seen": 1783510622.360078,
+        "observations": 1
+    },
+    "paysecureverify.fr": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "paysuccessfully.shop": {
@@ -149569,11 +149239,6 @@
         "last_seen": 1780713422.456865,
         "observations": 2
     },
-    "pfpchdfbngkdyvit6s2nqwqv556xvnlwvfflgktdudux4qmfhzpa.communitynode.dnshome.eu": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "pfpchdfbngkdyvit6s2nqwqv556xvnlwvfflgktdudux4qmfhzpa.exnihilio.dnshome.de": {
         "first_seen": 1769099821.943397,
         "last_seen": 1777300621.870586,
@@ -149842,6 +149507,11 @@
     "php-hello-world--w1tc3ve1ro.replit.app": {
         "first_seen": 1770352622.560078,
         "last_seen": 1770352622.560078,
+        "observations": 1
+    },
+    "php-web-server--activo2888.replit.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "php-web-server--edgarfsosa.replit.app": {
@@ -151408,6 +151078,11 @@
         "first_seen": 1771130221.763997,
         "last_seen": 1777775822.279499,
         "observations": 6
+    },
+    "portal-netcoinas.zapier.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "portal-okoo.com.cn": {
         "first_seen": 1779503822.254375,
@@ -154064,6 +153739,11 @@
         "last_seen": 1777732621.878336,
         "observations": 3
     },
+    "project-sub31.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "project-zne9e.vercel.app": {
         "first_seen": 1783078622.46857,
         "last_seen": 1783078622.46857,
@@ -154236,8 +153916,8 @@
     },
     "projetoshowmilhoes.s3.us-east-005.backblazeb2.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "prolakihsn-09.weebly.com": {
         "first_seen": 1782905821.80889,
@@ -154357,11 +154037,6 @@
     "promulgan.life": {
         "first_seen": 1784504221.992985,
         "last_seen": 1784504221.992985,
-        "observations": 1
-    },
-    "pronclubsf.kvddt.site": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "prontikot.com": {
@@ -154542,6 +154217,11 @@
     "prteccionsgrddmcroffchtwh.iceiy.com": {
         "first_seen": 1780929422.064448,
         "last_seen": 1780929422.064448,
+        "observations": 1
+    },
+    "prtraf.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "prtsc.biz.id": {
@@ -159136,8 +158816,8 @@
     },
     "rayan-arbab.github.io": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "raymondhlee.028426.com": {
         "first_seen": 1763138222.269378,
@@ -159171,8 +158851,8 @@
     },
     "rbcode.net": {
         "first_seen": 1782992221.874369,
-        "last_seen": 1785497822.012086,
-        "observations": 9
+        "last_seen": 1785541022.496626,
+        "observations": 10
     },
     "rbfcu-online.dev": {
         "first_seen": 1772599022.502008,
@@ -162379,11 +162059,6 @@
         "last_seen": 1777862222.519701,
         "observations": 5
     },
-    "robinhood-logi-auth.webflow.io": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "robinhood-login.com": {
         "first_seen": 1783553822.254873,
         "last_seen": 1783597021.815175,
@@ -162606,8 +162281,8 @@
     },
     "robiox.com.gr": {
         "first_seen": 1772815022.592643,
-        "last_seen": 1785497822.012086,
-        "observations": 27
+        "last_seen": 1785541022.496626,
+        "observations": 28
     },
     "robiox.com.ps": {
         "first_seen": 1770525422.025858,
@@ -162672,6 +162347,11 @@
     "roblnhoodweb3safelinksignln.duckdns.org": {
         "first_seen": 1776998222.729602,
         "last_seen": 1776998222.729602,
+        "observations": 1
+    },
+    "robloto.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "roblotx.co": {
@@ -162761,8 +162441,8 @@
     },
     "roblox.com.bi": {
         "first_seen": 1778683021.986587,
-        "last_seen": 1785022622.414354,
-        "observations": 11
+        "last_seen": 1785541022.496626,
+        "observations": 12
     },
     "roblox.com.bn": {
         "first_seen": 1772728622.624319,
@@ -162771,8 +162451,8 @@
     },
     "roblox.com.et": {
         "first_seen": 1772599022.502008,
-        "last_seen": 1781609822.176351,
-        "observations": 17
+        "last_seen": 1785541022.496626,
+        "observations": 18
     },
     "roblox.com.ge": {
         "first_seen": 1763570222.646976,
@@ -162806,8 +162486,8 @@
     },
     "roblox.com.mu": {
         "first_seen": 1781566622.27829,
-        "last_seen": 1785411422.04677,
-        "observations": 12
+        "last_seen": 1785541022.496626,
+        "observations": 13
     },
     "roblox.com.ng": {
         "first_seen": 1772555822.630948,
@@ -162912,6 +162592,11 @@
     "robloxaffice.blogspot.com": {
         "first_seen": 1779935822.136604,
         "last_seen": 1779935822.136604,
+        "observations": 1
+    },
+    "robloxanimalhospitalplush.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "robloxblack.pages.dev": {
@@ -163146,8 +162831,8 @@
     },
     "robuxtfrdrf.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "robuxx.vip": {
         "first_seen": 1782560222.686947,
@@ -163804,6 +163489,11 @@
         "last_seen": 1785238622.701168,
         "observations": 1
     },
+    "rr.twkohm.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "rr1.zjczwl.cn": {
         "first_seen": 1774449422.334337,
         "last_seen": 1774449422.334337,
@@ -163906,8 +163596,8 @@
     },
     "rss.sayler.at": {
         "first_seen": 1782862622.577222,
-        "last_seen": 1785325021.82369,
-        "observations": 2
+        "last_seen": 1785541022.496626,
+        "observations": 3
     },
     "rss2.readles.at": {
         "first_seen": 1776566222.286803,
@@ -164727,6 +164417,11 @@
     "s.teamqx.world": {
         "first_seen": 1771130221.763997,
         "last_seen": 1771130221.763997,
+        "observations": 1
+    },
+    "s.teamrre.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "s.teams-ca.com": {
@@ -165577,6 +165272,11 @@
     "sae23e2s.cfd": {
         "first_seen": 1770957421.989418,
         "last_seen": 1770957421.989418,
+        "observations": 1
+    },
+    "saeedebrahimi.ir": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "saenzfety.com": {
@@ -166573,6 +166273,11 @@
         "first_seen": 1777516622.373651,
         "last_seen": 1779374222.766733,
         "observations": 2
+    },
+    "san6-gvhagaa8ftgnhffc.z02.azurefd.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "sana-khan2776.github.io": {
         "first_seen": 1777127822.507573,
@@ -168611,8 +168316,8 @@
     },
     "secure-page-builder--benworthington.replit.app": {
         "first_seen": 1785281822.923578,
-        "last_seen": 1785497822.012086,
-        "observations": 2
+        "last_seen": 1785541022.496626,
+        "observations": 3
     },
     "secure-page-builder--daklmk.replit.app": {
         "first_seen": 1784633822.295434,
@@ -168624,6 +168329,11 @@
         "last_seen": 1783597021.815175,
         "observations": 2
     },
+    "secure-page-builder--kamilapatricia2.replit.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "secure-page-builder--leahgreene806a3.replit.app": {
         "first_seen": 1785454622.258632,
         "last_seen": 1785454622.258632,
@@ -168633,6 +168343,11 @@
         "first_seen": 1781869022.182883,
         "last_seen": 1781912221.836776,
         "observations": 2
+    },
+    "secure-page-builder--nidala77.replit.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "secure-page-builder--r3sb0x.replit.app": {
         "first_seen": 1784245022.104176,
@@ -168712,6 +168427,11 @@
     "secure-page-editor--ktgdawson.replit.app": {
         "first_seen": 1781318223.573616,
         "last_seen": 1781318223.573616,
+        "observations": 1
+    },
+    "secure-page-editor--louisemansfield.replit.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "secure-page-editor--marklendon.replit.app": {
@@ -171106,8 +170826,8 @@
     },
     "sf.tumee.com": {
         "first_seen": 1783726622.316342,
-        "last_seen": 1783726622.316342,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "sfamanageiosb.com": {
         "first_seen": 1775529422.117107,
@@ -171166,8 +170886,8 @@
     },
     "sgin12-dhl.mdbgo.io": {
         "first_seen": 1762447021.935632,
-        "last_seen": 1778510222.246827,
-        "observations": 8
+        "last_seen": 1785541022.496626,
+        "observations": 9
     },
     "sgintese.osc-fr1.scalingo.io": {
         "first_seen": 1779590222.553456,
@@ -175014,6 +174734,11 @@
         "last_seen": 1781955422.058304,
         "observations": 1
     },
+    "site-i29ewn21k.godaddysites.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "site-i6lkpfist.godaddysites.com": {
         "first_seen": 1772167022.37999,
         "last_seen": 1772167022.37999,
@@ -175438,11 +175163,6 @@
         "first_seen": 1776047822.677732,
         "last_seen": 1776091022.505194,
         "observations": 2
-    },
-    "skilfulstarair.com.au": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "skillceller.com": {
         "first_seen": 1780886221.756442,
@@ -182129,6 +181849,11 @@
         "last_seen": 1785411422.04677,
         "observations": 1
     },
+    "sp4ct-belvurin-biz8-forex-danik.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "sp4ct-bravion-biz8-korel-zunem.pages.dev": {
         "first_seen": 1785195422.292232,
         "last_seen": 1785195422.292232,
@@ -182149,9 +181874,24 @@
         "last_seen": 1785454622.258632,
         "observations": 1
     },
+    "sp4ct-delmorin-biz8-zurem-falok.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "sp4ct-delnor-biz8-jorem-vakil.pages.dev": {
         "first_seen": 1784979422.622598,
         "last_seen": 1784979422.622598,
+        "observations": 1
+    },
+    "sp4ct-dervax-biz8-korex-lamin.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "sp4ct-dorevak-biz8-lurem-kason.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "sp4ct-falvion-biz8-korem-zurax.pages.dev": {
@@ -182174,6 +181914,11 @@
         "last_seen": 1785152222.711995,
         "observations": 1
     },
+    "sp4ct-forvurin-biz8-zorex-lamik.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "sp4ct-galmurex-biz8-forel-kasok.pages.dev": {
         "first_seen": 1785022622.414354,
         "last_seen": 1785022622.414354,
@@ -182186,8 +181931,8 @@
     },
     "sp4ct-gorvurin-biz8-durem-fasol.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "sp4ct-grelon-biz8-nurex-kalvo.pages.dev": {
         "first_seen": 1785195422.292232,
@@ -182279,6 +182024,11 @@
         "last_seen": 1785152222.711995,
         "observations": 2
     },
+    "sp4ct-navrix-biz8-jorel-tumax.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "sp4ct-ovarel-biz8-selnor-fradik.pages.dev": {
         "first_seen": 1784763423.084232,
         "last_seen": 1784763423.084232,
@@ -182289,6 +182039,11 @@
         "last_seen": 1785454622.258632,
         "observations": 1
     },
+    "sp4ct-pardevik-biz8-durex-fazim.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "sp4ct-parlen-biz8-furex-kamor.pages.dev": {
         "first_seen": 1785065822.404789,
         "last_seen": 1785065822.404789,
@@ -182296,12 +182051,22 @@
     },
     "sp4ct-parvok-biz8-durem-falon.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
+        "last_seen": 1785541022.496626,
+        "observations": 2
+    },
+    "sp4ct-parvurin-biz8-zurem-falon.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "sp4ct-qardorin-biz8-korel-safon.pages.dev": {
         "first_seen": 1785065822.404789,
         "last_seen": 1785065822.404789,
+        "observations": 1
+    },
+    "sp4ct-qarvexo-biz8-kurem-ladon.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "sp4ct-qarvulen-biz8-surem-kafix.pages.dev": {
@@ -182322,6 +182087,11 @@
     "sp4ct-ravikon-biz8-morel-zafix.pages.dev": {
         "first_seen": 1785281822.923578,
         "last_seen": 1785281822.923578,
+        "observations": 1
+    },
+    "sp4ct-rolvex-biz8-darim-keson.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "sp4ct-rorvaken-biz8-forel-mazik.pages.dev": {
@@ -182444,11 +182214,6 @@
         "last_seen": 1784763423.084232,
         "observations": 1
     },
-    "sp57541.sitebeat.crazydomains.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "sp5ct-burek-biz8-soniv-larex.pages.dev": {
         "first_seen": 1785109022.724209,
         "last_seen": 1785109022.724209,
@@ -182549,6 +182314,11 @@
         "last_seen": 1785109022.724209,
         "observations": 1
     },
+    "sp5ct-fureq-biz8-vamek-horin.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "sp5ct-furev-biz8-lonik-marex.pages.dev": {
         "first_seen": 1785109022.724209,
         "last_seen": 1785109022.724209,
@@ -182636,8 +182406,8 @@
     },
     "sp5ct-hovek-biz8-lurem-vanix.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "sp5ct-hurek-biz8-ramev-soliq.pages.dev": {
         "first_seen": 1785109022.724209,
@@ -184469,6 +184239,11 @@
         "last_seen": 1778553422.148388,
         "observations": 1
     },
+    "spontaneous-starlight-b8be34.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "spoo.me": {
         "first_seen": 1779115022.379676,
         "last_seen": 1783813022.546357,
@@ -186264,6 +186039,26 @@
         "last_seen": 1785411422.04677,
         "observations": 1
     },
+    "staking2portfolio.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "staking3portfolio.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "staking4portfolio.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "staking5portfolio.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "stale-position-016185.framer.app": {
         "first_seen": 1778726222.195673,
         "last_seen": 1778726222.195673,
@@ -187156,8 +186951,8 @@
     },
     "steamcommnumity.cam": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "steamcommnunmity.com": {
         "first_seen": 1781782622.664208,
@@ -187241,8 +187036,8 @@
     },
     "steamcommunnitu.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "steamcommunnlty.com": {
         "first_seen": 1779460622.654924,
@@ -187392,6 +187187,11 @@
     "steamhelpsecured.com": {
         "first_seen": 1772771822.873168,
         "last_seen": 1772771822.873168,
+        "observations": 1
+    },
+    "steamncommunnity.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "steamnconmnmunity.com": {
@@ -188251,8 +188051,8 @@
     },
     "storied-jelly-94f299.netlify.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "storm-river-dgp.pages.dev": {
         "first_seen": 1771303022.448514,
@@ -188554,6 +188354,11 @@
         "last_seen": 1779158222.056512,
         "observations": 1
     },
+    "stunning-kulfi-78ebef.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "stunning-octo-fiesta.vercel.app": {
         "first_seen": 1763570222.646976,
         "last_seen": 1770266222.150401,
@@ -188586,8 +188391,8 @@
     },
     "stymm67.github.io": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "su-facebook.blogspot.com": {
         "first_seen": 1784331421.928401,
@@ -189492,6 +189297,11 @@
     "sunny-gelato-0c5980.netlify.app": {
         "first_seen": 1769963821.850016,
         "last_seen": 1769963821.850016,
+        "observations": 1
+    },
+    "sunnycode9325.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "sunraysiastays.hostel.town": {
@@ -191537,6 +191347,11 @@
     "swiftwaste.com": {
         "first_seen": 1772771822.873168,
         "last_seen": 1772771822.873168,
+        "observations": 1
+    },
+    "swiftyl.netlify.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "swiggy.manchtech.in": {
@@ -194677,11 +194492,6 @@
     "t-mobile.ghmsjl.top": {
         "first_seen": 1778985422.90343,
         "last_seen": 1778985422.90343,
-        "observations": 1
-    },
-    "t-mobile.ghrkw.cc": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "t-mobile.ghrubs.top": {
@@ -202764,11 +202574,6 @@
         "last_seen": 1773844622.459158,
         "observations": 1
     },
-    "taqueriaaustin.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "taqvora.github.io": {
         "first_seen": 1783985822.216463,
         "last_seen": 1783985822.216463,
@@ -203029,6 +202834,11 @@
         "last_seen": 1784115421.961504,
         "observations": 1
     },
+    "tcy6-1n0-emeco-qbv7ql-qmsr5f.pages.dev": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "tcyvguhbjk.weebly.com": {
         "first_seen": 1770179822.722671,
         "last_seen": 1770179822.722671,
@@ -203144,6 +202954,11 @@
         "last_seen": 1779244622.294783,
         "observations": 2
     },
+    "team-task-hub--kinnyb.replit.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "team.credits-center.com": {
         "first_seen": 1777775822.279499,
         "last_seen": 1777775822.279499,
@@ -203234,6 +203049,11 @@
         "last_seen": 1772685422.607274,
         "observations": 23
     },
+    "tearns-misrasoft.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "tech-institute.org": {
         "first_seen": 1759718227.868484,
         "last_seen": 1776220622.811079,
@@ -203267,6 +203087,11 @@
     "techhubsolutions78.github.io": {
         "first_seen": 1783424222.676688,
         "last_seen": 1783424222.676688,
+        "observations": 1
+    },
+    "techie-25.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "techie-crunch.github.io": {
@@ -204849,6 +204674,11 @@
         "last_seen": 1772080621.892408,
         "observations": 1
     },
+    "thr-sho52.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "thr-shopee24.blogspot.com": {
         "first_seen": 1785497822.012086,
         "last_seen": 1785497822.012086,
@@ -205414,6 +205244,11 @@
         "last_seen": 1776307022.353778,
         "observations": 1
     },
+    "tiny.cc": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "tinylink.eu": {
         "first_seen": 1759891027.312169,
         "last_seen": 1775961422.681283,
@@ -205871,8 +205706,8 @@
     },
     "to.lk": {
         "first_seen": 1767242222.229752,
-        "last_seen": 1784245022.104176,
-        "observations": 33
+        "last_seen": 1785541022.496626,
+        "observations": 34
     },
     "to.noreplybussinesfacebook.com": {
         "first_seen": 1781231822.543856,
@@ -208694,6 +208529,11 @@
         "last_seen": 1784849822.637833,
         "observations": 1
     },
+    "trezor-wallet-e.webflow.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "trezor-wallet-overview.webflow.io": {
         "first_seen": 1782041822.017991,
         "last_seen": 1782041822.017991,
@@ -209062,6 +208902,11 @@
     "trezr-home-login.square.site": {
         "first_seen": 1782041822.017991,
         "last_seen": 1782041822.017991,
+        "observations": 1
+    },
+    "trezr-io-start-cloud-sso.typedream.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "trezr-io-wallt.pages.dev": {
@@ -209604,6 +209449,11 @@
         "last_seen": 1776047822.677732,
         "observations": 1
     },
+    "truexarchetypalkz-f5h0d2f3g8hgegef.z03.azurefd.net": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "truexxnqeflq3-a6a0ewdpg9gfguad.z03.azurefd.net": {
         "first_seen": 1784461021.782443,
         "last_seen": 1784504221.992985,
@@ -209984,6 +209834,11 @@
         "last_seen": 1774147022.456715,
         "observations": 2
     },
+    "trzorlogin.gitbook.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "trzorr-io-start-en.pages.dev": {
         "first_seen": 1785497822.012086,
         "last_seen": 1785497822.012086,
@@ -210287,6 +210142,11 @@
     "ttiemu.github.io": {
         "first_seen": 1784849822.637833,
         "last_seen": 1784849822.637833,
+        "observations": 1
+    },
+    "ttkpay-master.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "ttmgame28112006-alt.github.io": {
@@ -211196,8 +211056,8 @@
     },
     "u.to": {
         "first_seen": 1642178221.781793,
-        "last_seen": 1785454622.258632,
-        "observations": 274
+        "last_seen": 1785541022.496626,
+        "observations": 275
     },
     "u.trustonepay.live": {
         "first_seen": 1775443022.488535,
@@ -211456,8 +211316,8 @@
     },
     "uaeuptodate.com": {
         "first_seen": 1785454622.258632,
-        "last_seen": 1785454622.258632,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "uafinance.cfd": {
         "first_seen": 1773412622.003534,
@@ -214066,8 +213926,8 @@
     },
     "usc1.contabostorage.com": {
         "first_seen": 1743475022.852763,
-        "last_seen": 1784763423.084232,
-        "observations": 33
+        "last_seen": 1785541022.496626,
+        "observations": 34
     },
     "usconevbaaseproloen.godaddysites.com": {
         "first_seen": 1780065421.871867,
@@ -215214,6 +215074,11 @@
         "last_seen": 1780972622.367944,
         "observations": 1
     },
+    "uus-robinhood-apli.gitbook.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "uuu.binanceltd.ltd": {
         "first_seen": 1780799821.891066,
         "last_seen": 1780799821.891066,
@@ -215461,8 +215326,8 @@
     },
     "vaac.club": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "vaai.la": {
         "first_seen": 1781523422.125964,
@@ -215567,6 +215432,11 @@
     "vaishnavigupta689.github.io": {
         "first_seen": 1772555822.630948,
         "last_seen": 1772555822.630948,
+        "observations": 1
+    },
+    "vaishnaviraut3003-cyber.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "valdarsistmcroffcewhppt.iceiy.com": {
@@ -215796,8 +215666,8 @@
     },
     "valoresareceber.s3.us-east-005.backblazeb2.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "valorrostertwilight.s3.ap-northeast-2.amazonaws.com": {
         "first_seen": 1782992221.874369,
@@ -217786,8 +217656,8 @@
     },
     "viewpackagetracking.com": {
         "first_seen": 1777862222.519701,
-        "last_seen": 1783208222.732721,
-        "observations": 5
+        "last_seen": 1785541022.496626,
+        "observations": 6
     },
     "viewtrack.network": {
         "first_seen": 1781825822.155093,
@@ -218198,11 +218068,6 @@
         "first_seen": 1781102222.685205,
         "last_seen": 1781145422.007375,
         "observations": 2
-    },
-    "virodir.de": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
     },
     "virsharepointonlinereviewdocument.vercel.app": {
         "first_seen": 1772037422.49701,
@@ -219742,6 +219607,21 @@
     "wa-whatapp.hl.cn": {
         "first_seen": 1783813022.546357,
         "last_seen": 1783813022.546357,
+        "observations": 1
+    },
+    "wa.chans-whatapp.hl.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "wa.connect-whatapp.com.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "wa.utter-whatapp.hl.cn": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "wa.wap-whatapp.gd.cn": {
@@ -221923,6 +221803,11 @@
         "first_seen": 1767458221.900767,
         "last_seen": 1779244622.294783,
         "observations": 7
+    },
+    "webozip.in": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "webpage-faq-en-trezr-en.typedream.app": {
         "first_seen": 1772080621.892408,
@@ -224509,6 +224394,11 @@
         "last_seen": 1778510222.246827,
         "observations": 61
     },
+    "world-dobraya-raduga.shop": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "world.agency-partner-management.com": {
         "first_seen": 1777127822.507573,
         "last_seen": 1777127822.507573,
@@ -225003,6 +224893,11 @@
         "first_seen": 1784072222.500436,
         "last_seen": 1785325021.82369,
         "observations": 2
+    },
+    "ww.array-expo.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "ww.lhvietvghy.ct.ws": {
         "first_seen": 1777300621.870586,
@@ -227384,6 +227279,16 @@
         "last_seen": 1775356622.233068,
         "observations": 1
     },
+    "www.2547rr.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "www.25fshop77.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.268365l.com": {
         "first_seen": 1774147022.456715,
         "last_seen": 1774147022.456715,
@@ -228026,8 +227931,8 @@
     },
     "www.5mp.eu": {
         "first_seen": 1749868622.170403,
-        "last_seen": 1785368222.131756,
-        "observations": 91
+        "last_seen": 1785541022.496626,
+        "observations": 92
     },
     "www.60623.xyz": {
         "first_seen": 1777819022.387236,
@@ -228222,11 +228127,6 @@
     "www.62db6atd.vercel.app": {
         "first_seen": 1784504221.992985,
         "last_seen": 1784504221.992985,
-        "observations": 1
-    },
-    "www.630web.whatsapwcso.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "www.63365.com": {
@@ -229414,6 +229314,11 @@
         "last_seen": 1777387022.246028,
         "observations": 1
     },
+    "www.99nt.site": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.99re99777mq.com": {
         "first_seen": 1781609822.176351,
         "last_seen": 1781609822.176351,
@@ -229768,6 +229673,11 @@
         "first_seen": 1779676621.931119,
         "last_seen": 1779892622.529312,
         "observations": 2
+    },
+    "www.ad25477.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "www.adaccount-validationcenter.me": {
         "first_seen": 1778639822.547374,
@@ -230596,8 +230506,8 @@
     },
     "www.amazon-clone-lemon.vercel.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.amazon-clone-lilac-iota.vercel.app": {
         "first_seen": 1772469422.731711,
@@ -231019,6 +230929,11 @@
         "last_seen": 1776739022.575612,
         "observations": 7
     },
+    "www.amazon-project-with-java-script.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.amazon-remboursement.top": {
         "first_seen": 1783985822.216463,
         "last_seen": 1783985822.216463,
@@ -231051,8 +230966,8 @@
     },
     "www.amazon-using-nextjs-1o67.vercel.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.amazon.co.za": {
         "first_seen": 1776609421.965335,
@@ -232456,8 +232371,8 @@
     },
     "www.bankofamerica-security.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.bankofamerica-three.vercel.app": {
         "first_seen": 1779590222.553456,
@@ -233121,8 +233036,8 @@
     },
     "www.bigshopee24.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.bigshopee597.blogspot.com": {
         "first_seen": 1774751822.182347,
@@ -234821,8 +234736,8 @@
     },
     "www.coderr-ecru.vercel.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.coderr-steel.vercel.app": {
         "first_seen": 1782862622.577222,
@@ -235536,8 +235451,8 @@
     },
     "www.cryptofinal-nine.vercel.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.cryptowalleet.blogspot.com": {
         "first_seen": 1781404622.358341,
@@ -235709,6 +235624,11 @@
         "last_seen": 1777300621.870586,
         "observations": 2
     },
+    "www.dangkypaypal.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.danilosolucoesdeti.com.br": {
         "first_seen": 1777516622.373651,
         "last_seen": 1777516622.373651,
@@ -235736,8 +235656,8 @@
     },
     "www.dashboardaccount-moviepremiumnetfix.129-121-114-233.cpanel.site": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.data-collection-neon.vercel.app": {
         "first_seen": 1769877422.788739,
@@ -240161,8 +240081,8 @@
     },
     "www.dynamicfacebook.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.dyppnjeisc.my": {
         "first_seen": 1770784621.833985,
@@ -241566,8 +241486,8 @@
     },
     "www.facebook-authorization.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.facebook-auto-liker.blogspot.com": {
         "first_seen": 1785281822.923578,
@@ -241728,6 +241648,11 @@
         "first_seen": 1773110222.040874,
         "last_seen": 1776998222.729602,
         "observations": 3
+    },
+    "www.facebook-clone-xi-three.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "www.facebook-clone-zeta-six.vercel.app": {
         "first_seen": 1783726622.316342,
@@ -243227,6 +243152,11 @@
     "www.fortzone.pro": {
         "first_seen": 1779590222.553456,
         "last_seen": 1779590222.553456,
+        "observations": 1
+    },
+    "www.fotosdemorrodochapeuba.com.br": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "www.fpd.sisconthosting.com": {
@@ -245819,6 +245749,11 @@
         "last_seen": 1777689422.178726,
         "observations": 1
     },
+    "www.hinet.antoinesrestaurants.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.hizmetnoktasi.xyz": {
         "first_seen": 1770827821.822311,
         "last_seen": 1770827821.822311,
@@ -246647,11 +246582,6 @@
     "www.info-resmi432.blogspot.com": {
         "first_seen": 1780065421.871867,
         "last_seen": 1780065421.871867,
-        "observations": 1
-    },
-    "www.info-resmi449.blogspot.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "www.info-resmi471.blogspot.com": {
@@ -247901,8 +247831,8 @@
     },
     "www.is.gd": {
         "first_seen": 1647059823.780094,
-        "last_seen": 1785281822.923578,
-        "observations": 236
+        "last_seen": 1785541022.496626,
+        "observations": 237
     },
     "www.ishaimmigration.com": {
         "first_seen": 1782517021.841545,
@@ -249579,6 +249509,11 @@
         "last_seen": 1778294222.80283,
         "observations": 1
     },
+    "www.ledger-native.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.ledger-update.app": {
         "first_seen": 1775529422.117107,
         "last_seen": 1775529422.117107,
@@ -250999,6 +250934,11 @@
         "last_seen": 1774060622.122997,
         "observations": 1
     },
+    "www.meta-facebook-pro.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.meta-maskluginxgic.godaddysites.com": {
         "first_seen": 1784936222.910089,
         "last_seen": 1784936222.910089,
@@ -251301,8 +251241,8 @@
     },
     "www.mfacebookloginn.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.mfakeysetup.com": {
         "first_seen": 1784590622.602543,
@@ -251699,6 +251639,11 @@
         "last_seen": 1779460622.654924,
         "observations": 1
     },
+    "www.mobilekaitori.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.mobilitybusinessorders.com": {
         "first_seen": 1771907822.379456,
         "last_seen": 1771907822.379456,
@@ -251922,11 +251867,6 @@
     "www.msg53.vercel.app": {
         "first_seen": 1785368222.131756,
         "last_seen": 1785368222.131756,
-        "observations": 1
-    },
-    "www.msjjac.org": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "www.msnservicesecuritym.weebly.com": {
@@ -252183,6 +252123,11 @@
         "first_seen": 1783467422.381235,
         "last_seen": 1783510622.360078,
         "observations": 2
+    },
+    "www.myonlinebellfacturation.weebly.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "www.myschoolportal.net": {
         "first_seen": 1770827821.822311,
@@ -253716,8 +253661,8 @@
     },
     "www.njjiulong.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.njtxsbpznd.my": {
         "first_seen": 1770784621.833985,
@@ -254746,8 +254691,8 @@
     },
     "www.pay-com.blogspot.com": {
         "first_seen": 1782905821.80889,
-        "last_seen": 1784115421.961504,
-        "observations": 2
+        "last_seen": 1785541022.496626,
+        "observations": 3
     },
     "www.pay.tlhecourierguy.pro": {
         "first_seen": 1772253422.324661,
@@ -256501,8 +256446,8 @@
     },
     "www.pseint.net": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.psjfa.com": {
         "first_seen": 1778035021.987474,
@@ -256991,8 +256936,8 @@
     },
     "www.r.oblox.com.et": {
         "first_seen": 1779201422.504042,
-        "last_seen": 1785497822.012086,
-        "observations": 27
+        "last_seen": 1785541022.496626,
+        "observations": 28
     },
     "www.r0bl0x.vercel.app": {
         "first_seen": 1777732621.878336,
@@ -257594,11 +257539,6 @@
         "last_seen": 1783337822.670584,
         "observations": 1
     },
-    "www.robinhoodihay.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "www.robinhoodinstruction.com": {
         "first_seen": 1770568622.08407,
         "last_seen": 1770568622.08407,
@@ -257646,8 +257586,8 @@
     },
     "www.robiox.com.gr": {
         "first_seen": 1772512622.45808,
-        "last_seen": 1785497822.012086,
-        "observations": 126
+        "last_seen": 1785541022.496626,
+        "observations": 127
     },
     "www.robiox.com.ps": {
         "first_seen": 1769143021.957057,
@@ -257656,8 +257596,8 @@
     },
     "www.robiox.com.py": {
         "first_seen": 1762007822.628728,
-        "last_seen": 1785497822.012086,
-        "observations": 418
+        "last_seen": 1785541022.496626,
+        "observations": 419
     },
     "www.robiox.com.ua": {
         "first_seen": 1760539022.315402,
@@ -257716,23 +257656,23 @@
     },
     "www.roblox.com.am": {
         "first_seen": 1783769821.974496,
-        "last_seen": 1785497822.012086,
-        "observations": 24
+        "last_seen": 1785541022.496626,
+        "observations": 25
     },
     "www.roblox.com.bi": {
         "first_seen": 1776825421.833097,
-        "last_seen": 1785497822.012086,
-        "observations": 112
+        "last_seen": 1785541022.496626,
+        "observations": 113
     },
     "www.roblox.com.bn": {
         "first_seen": 1772253422.324661,
-        "last_seen": 1785497822.012086,
-        "observations": 162
+        "last_seen": 1785541022.496626,
+        "observations": 163
     },
     "www.roblox.com.et": {
         "first_seen": 1772555822.630948,
-        "last_seen": 1785497822.012086,
-        "observations": 145
+        "last_seen": 1785541022.496626,
+        "observations": 146
     },
     "www.roblox.com.ge": {
         "first_seen": 1780756622.38744,
@@ -257746,8 +257686,8 @@
     },
     "www.roblox.com.gr": {
         "first_seen": 1783510622.360078,
-        "last_seen": 1785497822.012086,
-        "observations": 14
+        "last_seen": 1785541022.496626,
+        "observations": 15
     },
     "www.roblox.com.kz": {
         "first_seen": 1766507822.536486,
@@ -257756,13 +257696,13 @@
     },
     "www.roblox.com.ml": {
         "first_seen": 1760539022.315402,
-        "last_seen": 1785497822.012086,
-        "observations": 326
+        "last_seen": 1785541022.496626,
+        "observations": 327
     },
     "www.roblox.com.mu": {
         "first_seen": 1781523422.125964,
-        "last_seen": 1785497822.012086,
-        "observations": 63
+        "last_seen": 1785541022.496626,
+        "observations": 64
     },
     "www.roblox.com.ng": {
         "first_seen": 1770352622.560078,
@@ -258091,8 +258031,8 @@
     },
     "www.s31j.top": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.s36502.cc": {
         "first_seen": 1774967822.772855,
@@ -258167,6 +258107,11 @@
     "www.santander-dev-week.vercel.app": {
         "first_seen": 1784936222.910089,
         "last_seen": 1784936222.910089,
+        "observations": 1
+    },
+    "www.santander-protocolo.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "www.santander.atualizacao-seguranca.com": {
@@ -258421,8 +258366,8 @@
     },
     "www.securechaseonline.vercel.app": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.securedocumentonline.vercel.app": {
         "first_seen": 1773196621.84884,
@@ -258487,6 +258432,11 @@
     "www.segurocardiffbancolh360.vercel.app": {
         "first_seen": 1785368222.131756,
         "last_seen": 1785368222.131756,
+        "observations": 1
+    },
+    "www.segurossurah360.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "www.sekhaiskillnepal.com": {
@@ -260059,6 +260009,16 @@
         "last_seen": 1785281822.923578,
         "observations": 1
     },
+    "www.solicitudyaumentoagrupoamigo360.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
+    "www.solicitudyaumentodecupobancol360.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.solutionfun.info": {
         "first_seen": 1770871022.793228,
         "last_seen": 1778423822.43414,
@@ -261454,6 +261414,11 @@
         "last_seen": 1775702221.87941,
         "observations": 1
     },
+    "www.tkshop27.blogspot.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.tkshoper.club": {
         "first_seen": 1774233422.212062,
         "last_seen": 1774233422.212062,
@@ -261982,6 +261947,11 @@
     "www.tt-verification-form.d2g.com": {
         "first_seen": 1783424222.676688,
         "last_seen": 1783424222.676688,
+        "observations": 1
+    },
+    "www.ttkpay-master.vercel.app": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "www.ttkpayevent.shop": {
@@ -264006,17 +263976,12 @@
     },
     "www.whatsappzoeiras.blogspot.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "www.whatsapwaas.com": {
         "first_seen": 1769920622.270424,
         "last_seen": 1769920622.270424,
-        "observations": 1
-    },
-    "www.whatsapwcox.com": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
         "observations": 1
     },
     "www.whatsblog.us": {
@@ -264734,6 +264699,11 @@
         "last_seen": 1782344222.539849,
         "observations": 1
     },
+    "www.xrp-flare-connection.org": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "www.xsdwlk.weebly.com": {
         "first_seen": 1778812621.835895,
         "last_seen": 1778812621.835895,
@@ -265062,6 +265032,11 @@
     "www.yuuu-rouge.vercel.app": {
         "first_seen": 1771432621.968176,
         "last_seen": 1771432621.968176,
+        "observations": 1
+    },
+    "www.yxrrggaulragjcrjugzj.weebly.com": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
         "observations": 1
     },
     "www.yybfj.com": {
@@ -266644,6 +266619,11 @@
         "last_seen": 1771907822.379456,
         "observations": 1
     },
+    "xfinity.payment-profile.info": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "xfinityaccounthome.20-228-132-238.cpanel.site": {
         "first_seen": 1781444935.465703,
         "last_seen": 1781523422.125964,
@@ -268021,8 +268001,8 @@
     },
     "y32b.top": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "y35n.top": {
         "first_seen": 1783251422.330681,
@@ -268951,8 +268931,8 @@
     },
     "yhtpw.net": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "yi-chih-0126.github.io": {
         "first_seen": 1776479822.12083,
@@ -269751,8 +269731,8 @@
     },
     "yxrrggaulragjcrjugzj.weebly.com": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "yxzdw.cn": {
         "first_seen": 1777127822.507573,
@@ -269831,8 +269811,8 @@
     },
     "z0ffu-9h2bi6-emff-0ig-p8ipx.pages.dev": {
         "first_seen": 1785497822.012086,
-        "last_seen": 1785497822.012086,
-        "observations": 1
+        "last_seen": 1785541022.496626,
+        "observations": 2
     },
     "z1.nwxtku6.click": {
         "first_seen": 1778035021.987474,
@@ -271014,11 +270994,6 @@
         "last_seen": 1784115421.961504,
         "observations": 1
     },
-    "zjw.dxt.mybluehost.me": {
-        "first_seen": 1769877422.788739,
-        "last_seen": 1769877422.788739,
-        "observations": 1
-    },
     "zk-tiantianyingqiu.com": {
         "first_seen": 1775572622.58383,
         "last_seen": 1775615822.600635,
@@ -271264,6 +271239,11 @@
         "last_seen": 1785195422.292232,
         "observations": 1
     },
+    "zucutti.lat": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
+    },
     "zuhair246.github.io": {
         "first_seen": 1774795022.035491,
         "last_seen": 1774795022.035491,
@@ -271278,6 +271258,11 @@
         "first_seen": 1771562222.255781,
         "last_seen": 1780713422.456865,
         "observations": 6
+    },
+    "zulqarnain-wali.github.io": {
+        "first_seen": 1785541022.496626,
+        "last_seen": 1785541022.496626,
+        "observations": 1
     },
     "zum.csam.in": {
         "first_seen": 1780022222.515645,
